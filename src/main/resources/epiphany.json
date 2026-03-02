@@ -1,0 +1,1149 @@
+[
+    {
+        "number": 0,
+        "name": "The {{day_of_week}} after the Epiphany",
+        "collect": "O God, by the leading of a star you manifested your only Son to the Peoples of the earth: Lead us, who know you now by faith, to your presence, where we may see your glory face to face; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        }
+    },
+    {
+        "number": 1,
+        "name": "{{day_of_week}} after the First Sunday after the Epiphany",
+        "collect": "Father in heaven, who at the baptism of Jesus in the River Jordan proclaimed him your beloved Son and anointed him with the Holy Spirit: Grant that all who are baptized into his Name may keep the covenant they have made, and boldly confess him as Lord and Savior; who with you and the Holy Spirit lives and reigns, one God, in glory everlasting. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Baptism of Our Lord Jesus Christ",
+            "vigil": {
+                "psalter": "104",
+                "readings": [
+                    "Isa. 61:1-9",
+                    "Gal. 3:23-29, 4:4-7"
+                ]
+            },
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "year_1_readings": [
+                "Isa. 40:1-11",
+                "Heb, 1:1-12",
+                "John 1:1-7, 19-20, 29-34"
+            ],
+            "year_2_readings": [
+                "Gen. 1:1--2:3",
+                "Eph. 1:3-14",
+                "John 1:29-34"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            },
+            "year_1_readings": [
+                "Isa. 40:12-23",
+                "Eph. 1:1-14",
+                "Mark 1:1-13"
+            ],
+            "year_2_readings": [
+                "Gen. 2:4-9(10-15)16-25",
+                "Heb 1:1-14",
+                "John 1:1-18"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            },
+            "year_1_readings": [
+                "Isa. 40:25-31",
+                "Eph. 1:15-23",
+                "Mark 1:14-28"
+            ],
+            "year_2_readings": [
+                "Gen. 3:1-24",
+                "Heb. 2:1-10",
+                "John 1:19-28"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            },
+            "year_1_readings": [
+                "Isa. 41:1-16",
+                "Eph. 2:1-10",
+                "Mark 1:29-45"
+            ],
+            "year_2_readings": [
+                "Gen 4:1-16",
+                "Heb. 2:11-18",
+                "John 1:(29-34)35-42"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            },
+            "year_1_readings": [
+                "Isa. 41:17-29",
+                "Eph. 2:11-22",
+                "Mark 2:1-12"
+            ],
+            "year_2_readings": [
+                "Gen 4:17-26",
+                "Heb. 3:1-11",
+                "John 1:43-51"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            },
+            "year_1_readings": [
+                "Isa. 42:(1-9)10-17",
+                "Eph. 3:1-13",
+                "Mark 2:13-22"
+            ],
+            "year_2_readings": [
+                "Gen. 6:1-8",
+                "Heb. 3:12-19",
+                "John 2:1-12"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "20, 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            },
+            "year_1_readings": [
+                "Isa. 43:1-13",
+                "Eph. 3:14-21",
+                "Mark 2:23--3:6"
+            ],
+            "year_2_readings": [
+                "Gen. 6:9-22",
+                "Heb. 4:1-13",
+                "John 2:13-22"
+            ]
+        }
+    },
+    {
+        "number": 2,
+        "name": "{{day_of_week}} after the Second Sunday after the Epiphany",
+        "collect": "Almighty God, whose Son our Savior Jesus Christ is the light of the world: Grant that your people, illumined by your Word and Sacraments, may shine with the radiance of Christ's glory, that he may be known, worshiped, and obeyed to the ends of the earth; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, now and for ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Second Sunday after the Epiphany",
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "year_1_readings": [
+                "Isa. 43:14--44:5",
+                "Heb. 6:17--7:10",
+                "John 4:27-42"
+            ],
+            "year_2_readings": [
+                "Gen. 7:1-10, 17-23",
+                "Eph. 4:1-16",
+                "Mark 3:7-19"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            },
+            "year_1_readings": [
+                "Isa. 44:6-8, 21-23",
+                "Eph. 4:1-16",
+                "Mark 3:7-19a"
+            ],
+            "year_2_readings": [
+                "Gen. 8:6-22",
+                "Heb. 4:14--5:6",
+                "John 2:23--3:15"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            },
+            "year_1_readings": [
+                "Isa. 44:9-20",
+                "Eph. 4:17-32",
+                "Mark 3:19b-35"
+            ],
+            "year_2_readings": [
+                "Gen. 9:1-17",
+                "Heb. 5:7-14",
+                "John 3:16-21"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            },
+            "year_1_readings": [
+                "Isa. 44:24--45:7",
+                "Eph. 5:1-14",
+                "Mark 4:1-20"
+            ],
+            "year_2_readings": [
+                "Gen. 9:18-29",
+                "Heb. 6:1-12",
+                "John 3:22-36"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            },
+            "year_1_readings": [
+                "Isa. 45:5-17",
+                "Eph. 5:15-33",
+                "Mark 4:21-34"
+            ],
+            "year_2_readings": [
+                "Gen. 11:1-9",
+                "Heb. 6:13-20",
+                "John 4:1-15"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            },
+            "year_1_readings": [
+                "Isa. 45:18-25",
+                "Eph. 6:1-9",
+                "Mark 4:35-41"
+            ],
+            "year_2_readings": [
+                "Gen. 11:27--12:8",
+                "Heb. 7:1-17",
+                "John 4:16-26"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            },
+            "year_1_readings": [
+                "Isa. 46:1-13",
+                "Eph. 6:10-24",
+                "Mark 5:1-20"
+            ],
+            "year_2_readings": [
+                "Gen. 12:9--13:1",
+                "Heb. 7:18-28",
+                "John 4:27-42"
+            ]
+        }
+    },
+    {
+        "number": 3,
+        "name": "{{day_of_week}} after the Third Sunday after the Epiphany",
+        "collect": "Give us grace, O Lord, to answer readily the call of our Savior Jesus Christ and proclaim to all people the Good News of his salvation, that we and the whole world may perceive the glory of his marvelous works; who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Third Sunday after the Epiphany",
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "year_1_readings": [
+                "Isa. 47:1-15",
+                "Heb. 10:19-31",
+                "John 5:2-18"
+            ],
+            "year_2_readings": [
+                "Gen. 13:2-18",
+                "Gal. 2:1-10",
+                "Mark 7:31-37"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            },
+            "year_1_readings": [
+                "Isa. 48:1-11",
+                "Gal. 1:1-17",
+                "Mark 5:21-43"
+            ],
+            "year_2_readings": [
+                "Gen. 14:(1-7)8-24",
+                "Heb. 8:1-13",
+                "John 4:43-54"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            },
+            "year_1_readings": [
+                "Isa. 48:12-21",
+                "Gal. 1:18--2:10",
+                "Mark 6:1-13"
+            ],
+            "year_2_readings": [
+                "Gen. 15:1-11, 17-21",
+                "Heb. 9:1-14",
+                "John 5:1-18"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            },
+            "year_1_readings": [
+                "Isa. 49:1-12",
+                "Gal. 2:11-21",
+                "Mark 6:13-29"
+            ],
+            "year_2_readings": [
+                "Gen. 16:1-14",
+                "Heb. 9:15-28",
+                "John 5:19-29"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 118"
+            },
+            "year_1_readings": [
+                "Isa. 49:13-23",
+                "Gal. 3:1-14",
+                "Mark 6:30-46"
+            ],
+            "year_2_readings": [
+                "Gen. 16:15--17:14",
+                "Heb. 10:1-10",
+                "John 5:30-47"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            },
+            "year_1_readings": [
+                "Isa. 50:1-11",
+                "Gal. 3:15-22",
+                "Mark 6:47-56"
+            ],
+            "year_2_readings": [
+                "Gen. 17:15-27",
+                "Heb. 10:11-25",
+                "John 6:1-15"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            },
+            "year_1_readings": [
+                "Isa. 51:1-8",
+                "Gal. 3:23-29",
+                "Mark 7:1-23"
+            ],
+            "year_2_readings": [
+                "Gen. 18:1-16",
+                "Heb. 10:26-39",
+                "John 6:16-27"
+            ]
+        }
+    },
+    {
+        "number": 4,
+        "name": "{{day_of_week}} after the Fourth Sunday after the Epiphany",
+        "collect": "Almighty and everlasting God, you govern all things both in heaven and on earth: Mercifully hear the supplications of your people, and in our time grant us your peace; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Fourth Sunday after the Epiphany",
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "year_1_readings": [
+                "Isa. 51:9-16",
+                "Heb. 11:8-16",
+                "John 7:14-31"
+            ],
+            "year_2_readings": [
+                "Gen. 18:16-33",
+                "Gal. 5:13-25",
+                "Mark 8:22-30"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            },
+            "year_1_readings": [
+                "Isa. 51:17-23",
+                "Gal. 4:1-11",
+                "Mark 7:24-37"
+            ],
+            "year_2_readings": [
+                "Gen. 19:1-17(18-23)24-29",
+                "Heb. 11:1-12",
+                "John 6:27-40"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            },
+            "year_1_readings": [
+                "Isa. 52:1-12",
+                "Gal. 4:12-20",
+                "Mark 8:1-10"
+            ],
+            "year_2_readings": [
+                "Gen. 21:1-21",
+                "Heb. 11:13-22",
+                "John 6:41-51"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            },
+            "year_1_readings": [
+                "Isa. 54:1-10(11-17)",
+                "Gal. 4:21-31",
+                "Mark 8:11-26"
+            ],
+            "year_2_readings": [
+                "Gen. 22:1-18",
+                "Heb. 11:23-31",
+                "John 6:52-59"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            },
+            "year_1_readings": [
+                "Isa. 55:1-13",
+                "Gal. 5:1-15",
+                "Mark 8:27--9:1"
+            ],
+            "year_2_readings": [
+                "Gen. 23:1-20",
+                "Heb. 11:32--12:2",
+                "John 6:60-71"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            },
+            "year_1_readings": [
+                "Isa. 56:1-8",
+                "Gal. 5:16-24",
+                "Mark 9:2-13"
+            ],
+            "year_2_readings": [
+                "Gen. 24:1-27",
+                "Heb. 12:3-11",
+                "John 7:1-13"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            },
+            "year_1_readings": [
+                "Isa. 57:3-13",
+                "Gal. 5:25--6:10",
+                "Mark 9:14-29"
+            ],
+            "year_2_readings": [
+                "Gen. 24:28-38, 49-51",
+                "Heb. 12:12-29",
+                "John 7:14-36"
+            ]
+        }
+    },
+    {
+        "number": 5,
+        "name": "{{day_of_week}} after the Fifth Sunday after the Epiphany",
+        "collect": "Set us free, O God, from the bondage of our sins, and give us the liberty of that abundant life which you have made known to us in your Son our Savior Jesus Christ; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Fifth Sunday after the Epiphany",
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "year_1_readings": [
+                "Isa. 57:14-21",
+                "Heb. 12:1-6",
+                "John 7:37-46"
+            ],
+            "year_2_readings": [
+                "Gen. 24:50-67",
+                "2 Tim. 2:14-21",
+                "Mark 10:13-22"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            },
+            "year_1_readings": [
+                "Isa. 58:1-12",
+                "Gal. 6:11-18",
+                "Mark 9:30-41"
+            ],
+            "year_2_readings": [
+                "Gen. 25:19-34",
+                "Heb. 13:1-16",
+                "John 7:37-52"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            },
+            "year_1_readings": [
+                "Isa. 59:1-15a",
+                "2 Tim. 1:1-14",
+                "Mark 9:42-50"
+            ],
+            "year_2_readings": [
+                "Gen. 26:1-6, 12-33",
+                "Heb. 13:17-25",
+                "John 7:53--8:11"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "psalter": "81, 82"
+            },
+            "year_1_readings": [
+                "Isa. 59:15b-21",
+                "2 Tim. 1:15--2:13",
+                "Mark 10:1-16"
+            ],
+            "year_2_readings": [
+                "Gen. 27:1-29",
+                "Rom. 12:1-8",
+                "John 8:12-20"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "[83] or 146, 147"
+            },
+            "evening": {
+                "psalter": "85, 86"
+            },
+            "year_1_readings": [
+                "Isa. 60:1-17",
+                "2 Tim. 2:14-26",
+                "Mark 10:17-31"
+            ],
+            "year_2_readings": [
+                "Gen. 27:30-45",
+                "Rom. 12:9-21",
+                "John 8:21-32"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            },
+            "year_1_readings": [
+                "Isa. 61:1-9",
+                "2 Tim. 3:1-17",
+                "Mark 10:32-45"
+            ],
+            "year_2_readings": [
+                "Gen. 27:46--28:4, 10-22",
+                "Rom. 13:1-14",
+                "John 8:33-47"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            },
+            "year_1_readings": [
+                "Isa. 61:10--62:5",
+                "2 Tim. 4:1-8",
+                "Mark 10:46-52"
+            ],
+            "year_2_readings": [
+                "Gen. 29:1-20",
+                "Rom. 14:1-23",
+                "John 8:47-59"
+            ]
+        }
+    },
+    {
+        "number": 6,
+        "name": "{{day_of_week}} after the Sixth Sunday after the Epiphany",
+        "collect": "O God, the strength of all who put their trust in you: Mercifully accept our prayers; and because in our weakness we can do nothing good without you, give us the help of your grace, that in keeping your commandments we may please you both in will and deed; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Sixth Sunday after the Epiphany",
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19, 46"
+            },
+            "year_1_readings": [
+                "Isa. 62:6-12",
+                "1 John 2:3-11",
+                "John 8:12-19"
+            ],
+            "year_2_readings": [
+                "Gen. 29:20-35",
+                "1 Tim. 3:14--4:10",
+                "Mark 10:23-31"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            },
+            "year_1_readings": [
+                "Isa. 63:1-6",
+                "1 Tim. 1:1-17",
+                "Mark 11:1-11"
+            ],
+            "year_2_readings": [
+                "Gen. 30:1-24",
+                "1 John 1:1-10",
+                "John 9:1-17"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            },
+            "year_1_readings": [
+                "Isa. 63:7-14",
+                "1 Tim. 1:18--2:8",
+                "Mark 11:12-26"
+            ],
+            "year_2_readings": [
+                "Gen. 31:1-24",
+                "1 John 2:1-11",
+                "John 9:18-41"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            },
+            "year_1_readings": [
+                "Isa. 63:15--64:9",
+                "1 Tim. 3:1-16",
+                "Mark 11:27--12:12"
+            ],
+            "year_2_readings": [
+                "Gen. 31:25-50",
+                "1 John 2:12-17",
+                "John 10:1-18"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            },
+            "year_1_readings": [
+                "Isa. 65:1-12",
+                "1 Tim. 4:1-16",
+                "Mark 12:13-27"
+            ],
+            "year_2_readings": [
+                "Gen. 32:3-21",
+                "1 John 2:18-29",
+                "John 10:19-30"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            },
+            "year_1_readings": [
+                "Isa. 65:17-25",
+                "1 Tim. 5:17-22(23-25)",
+                "Mark 12:28-34"
+            ],
+            "year_2_readings": [
+                "Gen. 32:22--33:17",
+                "1 John 3:1-10",
+                "John 10:31-42"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "psalter": "33"
+            },
+            "year_1_readings": [
+                "Isa. 66:1-6",
+                "1 Tim. 6:6-21",
+                "Mark 12:35-44"
+            ],
+            "year_2_readings": [
+                "Gen. 35:1-20",
+                "1 John 3:11-18",
+                "John 11:1-16"
+            ]
+        }
+    },
+    {
+        "number": 7,
+        "name": "{{day_of_week}} after the Seventh Sunday after the Epiphany",
+        "collect": "O Lord, you have taught us that without love whatever we do is worth nothing; Send your Holy Spirit and pour into our hearts your greatest gift, which is love, the true bond of peace and of all virtue, without which whoever lives is accounted dead before you. Grant this for the sake of your only Son Jesus Christ, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Seventh Sunday after the Epiphany",
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "year_1_readings": [
+                "Isa. 66:7-14",
+                "1 John 3:4-10",
+                "John 10:7-16"
+            ],
+            "year_2_readings": [
+                "Prov. 1:20-33",
+                "2 Cor. 5:11-21",
+                "Mark 10:35-45"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            },
+            "year_1_readings": [
+                "Ruth 1:1-14",
+                "2 Cor. 1:1-11",
+                "Matt. 5:1-12"
+            ],
+            "year_2_readings": [
+                "Prov. 3:11-20",
+                "1 John 3:18--4:6",
+                "John 11:17-29"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            },
+            "year_1_readings": [
+                "Ruth 1:15-22",
+                "2 Cor. 1:12-22",
+                "Matt. 5:13-20"
+            ],
+            "year_2_readings": [
+                "Prov. 4:1-27",
+                "1 John 4:7-21",
+                "John 11:30-44"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            },
+            "year_1_readings": [
+                "Ruth 2:1-13",
+                "2  Cor. 1:23--2:17",
+                "Matt. 5:21-26"
+            ],
+            "year_2_readings": [
+                "Prov. 6:1-19",
+                "1 John 5:1-12",
+                "John 11:45-54"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            },
+            "year_1_readings": [
+                "Ruth 2:14-23",
+                "2 Cor. 3:1-18",
+                "Matt. 5:27-37"
+            ],
+            "year_2_readings": [
+                "Prov. 7:1-27",
+                "1 John 5:13-21",
+                "John 11:55--12:8"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "140, 142"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            },
+            "year_1_readings": [
+                "Ruth 3:1-18",
+                "2 Cor. 4:1-12",
+                "Matt. 5:38-48"
+            ],
+            "year_2_readings": [
+                "Prov. 8:1-21",
+                "Philemon 1-25",
+                "John 12:9-19"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "137:1-6(7-9), 144"
+            },
+            "evening": {
+                "psalter": "104"
+            },
+            "year_1_readings": [
+                "Ruth 4:1-17",
+                "2 Cor. 4:13--5:10",
+                "Matt. 6:1-6"
+            ],
+            "year_2_readings": [
+                "Prov. 8:22-36",
+                "2 Tim. 1:1-14",
+                "John 12:20-26"
+            ]
+        }
+    },
+    {
+        "number": 8,
+        "name": "{{day_of_week}} after the Eighth Sunday after the Epiphany",
+        "collect": "Most loving Father, whose will it is for us to give thanks for all things, to fear nothing but the loss of you, and to cast all our care on you who care for us: Preserve us from faithless fears and worldly anxieties, that no clouds of this mortal life may hide from us the light of that love which is immortal, and which you have manifested to us in your Son Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "EPIPHANY",
+        "SUNDAY": {
+            "name": "The Eighth Sunday after the Epiphany",
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "year_1_readings": [
+                "Deut. 4:1-9",
+                "2 Tim. 4:1-8",
+                "John 12:1-8"
+            ],
+            "year_2_readings": [
+                "Prov. 9:1-12",
+                "2 Cor. 9:6b-15",
+                "Mark 10:46-52"
+            ]
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            },
+            "year_1_readings": [
+                "Deut. 4:9-14",
+                "2 Cor. 10:1-18",
+                "Matt. 6:7-15"
+            ],
+            "year_2_readings": [
+                "Prov. 10:1-12",
+                "2 Tim. 1:15--2:13",
+                "John 12:27-36a"
+            ]
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            },
+            "year_1_readings": [
+                "Deut. 4:15-24",
+                "2 Cor. 11:1-21a",
+                "Matt. 6:16-23"
+            ],
+            "year_2_readings": [
+                "Prov. 15:16-33",
+                "2 Tim. 2:14-26",
+                "John 12:36b-50"
+            ]
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            },
+            "year_1_readings": [
+                "Deut. 4:23-31",
+                "2 Cor. 11:21b-33",
+                "Matt. 6:24-34"
+            ],
+            "year_2_readings": [
+                "Prov. 17:1-20",
+                "2 Tim. 3:1-17",
+                "John 13:1-20"
+            ]
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            },
+            "year_1_readings": [
+                "Deut. 4:32-40",
+                "2 Cor. 12:1-10",
+                "Matt. 7:1-12"
+            ],
+            "year_2_readings": [
+                "Prov. 21:30--22:6",
+                "2 Tim. 4:1-8",
+                "John 13:21-30"
+            ]
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            },
+            "year_1_readings": [
+                "Deut. 5:1-22",
+                "2 Cor. 12:11-21 ",
+                "Matt. 7:13-21"
+            ],
+            "year_2_readings": [
+                "Prov. 23:19-21, 29--24:2",
+                "2 Tim. 4:9-22",
+                "John 13:31-38"
+            ]
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "20, 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            },
+            "year_1_readings": [
+                "Deut. 5:22-33",
+                "2 Cor. 13:1-14",
+                "Matt. 7:22-29"
+            ],
+            "year_2_readings": [
+                "Prov. 25:15-28",
+                "Phil. 1:1-11",
+                "John 18:1-14"
+            ]
+        }
+    }
+]

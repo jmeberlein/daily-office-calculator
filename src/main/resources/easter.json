@@ -1,0 +1,1032 @@
+[
+    {
+        "number": 1,
+        "season": "EASTER",
+        "SUNDAY": {
+            "collect": "Almighty God, who through your only-begotten Son Jesus Christ overcame death and opened to us the gate of everlasting life: Grant that we, who celebrate with joy the day of the Lord's resurrection, may be raised from the death of sin by your life-giving Spirit; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+            "morning": {
+                "psalter": "148, 149, 150",
+                "readings": [
+                    "Exod. 12:1-14",
+                    "John 1:1-18"
+                ]
+            },
+            "evening": {
+                "psalter": "113, 114 or 118",
+                "readings": [
+                    "Isa. 51:9-11",
+                    "Luke 24:13-35, or John 20:19-23"
+                ]
+            },
+            "rank": "PRINCIPAL",
+            "name": "Easter Sunday"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Jonah 2:1-9",
+                "Acts 2:14, 22-32",
+                "John 14:1-14"
+            ],
+            "year_2_readings": [
+                "Exod. 12:14-27",
+                "1 Cor. 15:1-11",
+                "Mark 16:1-8"
+            ],
+            "morning": {
+                "psalter": "93, 98"
+            },
+            "evening": {
+                "psalter": "66"
+            },
+            "collect": "Grant, we pray, Almighty God, that we who celebrate with awe the Paschal feast may be found worthy to attain to everlasting joys; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+            "name": "Monday of the Octave of Easter",
+            "rank": "PRINCIPAL"
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Isa. 30:18-21",
+                "Acts 2:36-41(42-47)",
+                "John 14:15-31"
+            ],
+            "year_2_readings": [
+                "Exod. 12:28-39",
+                "1 Cor. 15:12-28",
+                "Mark 16:9-20"
+            ],
+            "morning": {
+                "psalter": "103"
+            },
+            "evening": {
+                "psalter": "111, 114"
+            },
+            "collect": "O God, who by the glorious resurrection of your Son Jesus Christ destroyed death and brought life and immortality to light: Grant that we, who have been raised with him, may abide in his presence and rejoice in the hope of eternal glory; through Jesus Christ our Lord, to whom, with you and the Holy Spirit, be dominion and praise for ever and ever. Amen.",
+            "name": "Tuesday of the Octave of Easter",
+            "rank": "PRINCIPAL"
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Micah 7:7-15",
+                "Acts 3:1-10",
+                "John 15:1-11"
+            ],
+            "year_2_readings": [
+                "Exod. 12:40-51",
+                "1 Cor. 15:(29)30-41",
+                "Matt. 28:1-16"
+            ],
+            "morning": {
+                "psalter": "97, 99"
+            },
+            "evening": {
+                "psalter": "115"
+            },
+            "collect": "O God, whose blessed Son made himself known to his disciples in the breaking of bread: Open the eyes of our faith, that we may behold him in all his redeeming work; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+            "name": "Wednesday of the Octave of Easter",
+            "rank": "PRINCIPAL"
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Ezek. 37:1-14",
+                "Acts 3:11-26",
+                "John 15:12-27"
+            ],
+            "year_2_readings": [
+                "Exod. 13:3-10",
+                "1 Cor. 15:41-50",
+                "Matt. 28:16-20"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "148, 149"
+            },
+            "collect": "Almighty and everlasting God, who in the Paschal mystery established the new covenant of reconciliation: Grant that all who have been reborn into the fellowship of Christ's Body may show forth in their lives what they profess by their faith; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "name": "Thursday of the Octave of Easter",
+            "rank": "PRINCIPAL"
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Dan. 12:1-4, 13",
+                "Acts 4:1-12",
+                "John 16:1-15"
+            ],
+            "year_2_readings": [
+                "Exod. 13:1-2, 11-16",
+                "1 Cor. 15:51-58",
+                "Luke 24:1-12"
+            ],
+            "morning": {
+                "psalter": "136"
+            },
+            "evening": {
+                "psalter": "118"
+            },
+            "collect": "Almighty Father, who gave your only Son to die for our sins and to rise for our justification: Give us grace so to put away the leaven of malice and wickedness, that we may always serve you in pureness of living and truth; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+            "name": "Friday of the Octave of Easter",
+            "rank": "PRINCIPAL"
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Isa. 25:1-9",
+                "Acts 4:13-21(22-31)",
+                "John 16:16-33"
+            ],
+            "year_2_readings": [
+                "Exod 13:17--14:4",
+                "2 Cor. 4:16--5:10",
+                "Mark 12:18-27"
+            ],
+            "morning": {
+                "psalter": "145"
+            },
+            "evening": {
+                "psalter": "104"
+            },
+            "collect": "We thank you, heavenly Father, that you have delivered us from the dominion of sin and death and brought us into the kingdom of your Son; and we pray that, as by his death he has recalled us to life, so by his love he may raise us to eternal joys; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "name": "Saturday of the Octave of Easter",
+            "rank": "PRINCIPAL"
+        }
+    },
+    {
+        "number": 2,
+        "collect": "Almighty and everlasting God, who in the Paschal mystery established the new covenant of reconciliation: Grant that all who have been reborn into the fellowship of Christ's Body may show forth in their lives what they profess by their faith; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 43:8-13",
+                "1 Pet. 2:2-10",
+                "John 14:1-7"
+            ],
+            "year_2_readings": [
+                "Exod. 14:5-22",
+                "1 John 1:1-7",
+                "John 14:1-7"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "rank": "PRINCIPAL",
+            "name": "The Second Sunday of Easter"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Dan. 1:1-21",
+                "1 John 1:1-10",
+                "John 17:1-11"
+            ],
+            "year_2_readings": [
+                "Exod. 14:21-31",
+                "1 Pet. 1:1-12",
+                "John 14:(1-7)8-17"
+            ],
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Dan. 2:1-16",
+                "1 John 2:1-11",
+                "John 17:12-19"
+            ],
+            "year_2_readings": [
+                "Exod. 15:1-21",
+                "1 Pet. 1:13-25",
+                "John 14:18-31"
+            ],
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Dan. 2:17-30",
+                "1 John 2:12-17",
+                "John 17:20-26"
+            ],
+            "year_2_readings": [
+                "Exod. 15:22--16:10",
+                "1 Pet. 2:1-10",
+                "John 15:1-11"
+            ],
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Dan. 2:31-49",
+                "1 John 2:18-29",
+                "Luke 3:1-14"
+            ],
+            "year_2_readings": [
+                "Exod. 16:10-21",
+                "1 Pet. 2:11-25",
+                "John 15:12-27"
+            ],
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Dan. 3:1-18",
+                "1 John 3:1-10",
+                "Luke 3:15-22"
+            ],
+            "year_2_readings": [
+                "Exod. 16:22-36",
+                "1 Pet. 3:13--4:6",
+                "John 16:1-15"
+            ],
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Dan. 3:19-30",
+                "1 John 3:11-18",
+                "Luke 4:1-13"
+            ],
+            "year_2_readings": [
+                "Exod. 17:1-16",
+                "1 Pet. 4:7-19",
+                "John 16:16-33"
+            ],
+            "morning": {
+                "psalter": "20, 21:1-7(8-13)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            }
+        },
+        "name": "{{day_of_week}} after the Second Sunday of Easter"
+    },
+    {
+        "number": 3,
+        "collect": "O God, whose blessed Son made himself known to his disciples in the breaking of bread: Open the eyes of our faith, that we may behold him in all his redeeming work; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Dan. 4:1-18",
+                "1 Pet. 4:7-11",
+                "John 21:15-25"
+            ],
+            "year_2_readings": [
+                "Exod. 18:1-12",
+                "1 John 2:7-17",
+                "Mark 16:9-20"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "The Third Sunday of Easter"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Dan. 4:19-27",
+                "1 John 3:19--4:6",
+                "Luke 4:14-30"
+            ],
+            "year_2_readings": [
+                "Exod. 18:13-27",
+                "1 Pet. 5:1-14",
+                "Matt. (1:1-17); 3:1-6"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Dan. 4:28-37",
+                "1 John 4:7-21",
+                "Luke 4:31-37"
+            ],
+            "year_2_readings": [
+                "Exod. 19:1-16",
+                "Col. 1:1-14",
+                "Matt. 3:7-12"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Dan. 5:1-12",
+                "1 John 5:1-12",
+                "Luke 4:38-44"
+            ],
+            "year_2_readings": [
+                "Exod. 19:16-25",
+                "Col. 1:15-23",
+                "Matt. 3:13-17"
+            ],
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Dan. 5:13-30",
+                "1 John 5:13-20(21)",
+                "Luke 5:1-11"
+            ],
+            "year_2_readings": [
+                "Exod. 20:1-21",
+                "Col. 1:24--2:7",
+                "Matt. 4:1-11"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Dan. 6:1-15",
+                "2 John 1-13",
+                "Luke 5:12-26"
+            ],
+            "year_2_readings": [
+                "Exod. 24:1-18",
+                "Col. 2:8-23",
+                "Matt. 4:12-17"
+            ],
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Dan. 6:16-28",
+                "3 John 1-15",
+                "Luke 5:27-39"
+            ],
+            "year_2_readings": [
+                "Exod. 25:1-22",
+                "Col. 3:1-17",
+                "Matt. 4:18-25"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the Third Sunday of Easter"
+    },
+    {
+        "number": 4,
+        "collect": "O God, whose Son Jesus is the good shepherd of your people; Grant that when we hear his voice we may know him who calls us each by name, and follow where he leads; who, with you and the Holy Spirit, lives and reigns, one God, for ever and ever. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Wisdom 1:1-15",
+                "1 Pet. 5:1-11",
+                "Matt. 7:15-29"
+            ],
+            "year_2_readings": [
+                "Exod. 25:1-4, 30-38",
+                "1 John 2:18-29",
+                "Mark 6:30-44"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The Fourth Sunday of Easter"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Wisdom 1:16--2:11, 21-24",
+                "Col. 1:1-14",
+                "Luke 6:1-11"
+            ],
+            "year_2_readings": [
+                "Exod. 32:1-20",
+                "Col. 3:18--4:6(7-18)",
+                "Matt. 5:1-10"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Wisdom 3:1-9",
+                "Col. 1:15-23",
+                "Luke 6:12-26"
+            ],
+            "year_2_readings": [
+                "Exod. 32:21-34",
+                "1 Thess. 1:1-10",
+                "Matt. 5:11-16"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Wisdom 4:16--5:8",
+                "Col. 1:24--2:7",
+                "Luke 6:27-38"
+            ],
+            "year_2_readings": [
+                "Exod. 33:1-23",
+                "1 Thess. 2:1-12",
+                "Matt. 5:17-20"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Wisdom 5:9-23",
+                "Col. 2:8-23",
+                "Luke 6:39-49"
+            ],
+            "year_2_readings": [
+                "Exod. 34:1-17",
+                "1 Thess. 2:13-20",
+                "Matt. 5:21-26"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 114, 115"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Wisdom 6:12-23",
+                "Col. 3:1-11",
+                "Luke 7:1-17"
+            ],
+            "year_2_readings": [
+                "Exod. 34:18-35",
+                "1 Thess. 3:1-13",
+                "Matt. 5:27-37"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Wisdom 7:1-14",
+                "Col. 3:12-17",
+                "Luke 7:18-28(29-30)31-35"
+            ],
+            "year_2_readings": [
+                "Exod. 40:18-38",
+                "1 Thess. 4:1-12",
+                "Matt. 5:38-48"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            }
+        },
+        "name": "{{day_of_week}} after the Fourth Sunday of Easter"
+    },
+    {
+        "number": 5,
+        "collect": "Almighty God, whom truly to know is everlasting life: Grant us so perfectly to know your Son Jesus Christ to be the way, the truth, and the life, that we may steadfastly follow his steps in the way that leads to eternal life; through Jesus Christ your Son our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Wisdom 7:22--8:1",
+                "2 Thess. 2:13-17",
+                "Matt. 7:7-14"
+            ],
+            "year_2_readings": [
+                "Lev. 8:1-13, 30-36",
+                "Heb. 12:1-14",
+                "Luke 4:16-30"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The Fifth Sunday of Easter"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Wisdom 9:1, 7-18",
+                "Col. (3:18--4:1)2-18",
+                "Luke 7:36-50"
+            ],
+            "year_2_readings": [
+                "Lev. 16:1-19",
+                "1 Thess. 4:13-18",
+                "Matt. 6:1-6, 16-18"
+            ],
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Wisdom 10:1-4(5-12)13-21",
+                "Rom. 12:1-21",
+                "Luke 8:1-15"
+            ],
+            "year_2_readings": [
+                "Lev. 16:20-34",
+                "1 Thess. 5:1-11",
+                "Matt. 6:7-15"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Wisdom 13:1-9",
+                "Rom. 13:1-14",
+                "Luke 8:16-25"
+            ],
+            "year_2_readings": [
+                "Lev. 19:1-18",
+                "1 Thess. 5:12-28",
+                "Matt. 6:19-24"
+            ],
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Wisdom 14:27--15:3",
+                "Rom. 14:1-12",
+                "Luke 8:26-39"
+            ],
+            "year_2_readings": [
+                "Lev. 19:26-37",
+                "2 Thess. 1:1-12",
+                "Matt. 6:25-34"
+            ],
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Wisdom 16:15--17:1",
+                "Rom. 14:13-23",
+                "Luke 8:40-56"
+            ],
+            "year_2_readings": [
+                "Lev. 23:1-22",
+                "2 Thess. 2:1-17",
+                "Matt. 7:1-12"
+            ],
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Wisdom 19:1-8, 18-22",
+                "Rom. 15:1-13",
+                "Luke 9:1-17"
+            ],
+            "year_2_readings": [
+                "Lev. 23:23-44",
+                "2 Thess. 3:1-18",
+                "Matt. 7:13-21"
+            ],
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            }
+        },
+        "name": "{{day_of_week}} after the Fifth Sunday of Easter"
+    },
+    {
+        "number": 6,
+        "collect": "Almighty God, whose blessed Son our Savior Jesus Christ ascended far above all heavens that he might fill all things: Mercifully give us faith to perceive that, according to his promise, he abides with his Church on earth, even to the end of the ages; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, in glory everlasting. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "collect": "O God, you have prepared for those who love you such good things as surpass our understanding: Pour into our hearts such love towards you, that we, loving you in all things and above all things, may obtain your promises, which exceed all that we can desire; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Ecclus. 43:1-12, 27-32",
+                "1 Tim. 3:14--4:5",
+                "Matt. 13:24-34a"
+            ],
+            "year_2_readings": [
+                "Lev. 25:1-17",
+                "James 1:2-8, 16-18",
+                "Luke 12:13-21"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "name": "Rogation Sunday"
+        },
+        "MONDAY": {
+            "collect": "Almighty God, Lord of heaven and earth: We humbly pray that your gracious providence may give and preserve to our use the harvests of the land and of the seas, and may prosper all who labor to gather them, that we, who are constantly receiving good things from your hand, may always give you thanks; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Deut. 8:1-10",
+                "James 1:1-15",
+                "Luke 9:18-27"
+            ],
+            "year_2_readings": [
+                "Lev. 25:35-55",
+                "Col. 1:9-14",
+                "Matt. 13:1-16"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            },
+            "name": "Rogation Monday",
+            "rank": "OPTIONAL"
+        },
+        "TUESDAY": {
+            "collect": "Almighty God, whose Son Jesus Christ in his earthly life shared our toil and hallowed our labor: Be present with your people where they work; make those who carry on the industries and commerce of this land responsive to your will; and give to us all a pride in what we do, and a just return for our labor; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+            "year_1_readings": [
+                "Deut. 8:11-20",
+                "James 1:16-27",
+                "Luke 11:1-13"
+            ],
+            "year_2_readings": [
+                "Lev. 26:1-20",
+                "1 Tim. 2:1-6",
+                "Matt. 13:18-23"
+            ],
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            },
+            "name": "Rogation Tuesday",
+            "rank": "OPTIONAL"
+        },
+        "WEDNESDAY": {
+            "collect": "O merciful Creator, your hand is open wide to satisfy the needs of every living creature: Make us always thankful for your loving providence; and grant that we, remembering the account that we must one day give, may be faithful stewards of your good gifts; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Baruch 3:24-37",
+                "James 5:13-18",
+                "Luke 12:22-31"
+            ],
+            "year_2_readings": [
+                "Lev. 26:27-42",
+                "Eph. 1:1-10",
+                "Matt. 22:41-46"
+            ],
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "readings": [
+                    "2 Kings 2:1-15",
+                    "Rev. 5:1-14"
+                ],
+                "psalter": "68:1-20"
+            },
+            "name": "Rogation Wednesday",
+            "rank": "OPTIONAL"
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Ezek. 1:14, 24-28b",
+                "Heb. 2:5-18",
+                "Matt. 28:16-20"
+            ],
+            "year_2_readings": [
+                "Dan. 7:9-14",
+                "Heb. 2:5-18",
+                "Matt. 28:16-20"
+            ],
+            "morning": {
+                "psalter": "8, 47"
+            },
+            "evening": {
+                "psalter": "24, 96"
+            },
+            "rank": "PRINCIPAL",
+            "name": "Ascension"
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Ezek. 1:28--3:3",
+                "Heb. 4:14--5:6",
+                "Luke 9:28-36"
+            ],
+            "year_2_readings": [
+                "1 Sam. 2:1-10",
+                "Eph. 2:1-10",
+                "Matt. 7:22-27"
+            ],
+            "morning": {
+                "psalter": "85, 86"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            },
+            "name": "The Friday after the Ascension"
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Ezek. 3:4-17",
+                "Heb. 5:7-14",
+                "Luke 9:37-50"
+            ],
+            "year_2_readings": [
+                "Num. 11:16-17, 24-29",
+                "Eph. 2:11-22",
+                "Matt. 7:28--8:4"
+            ],
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            },
+            "name": "The Saturday after the Ascension"
+        }
+    },
+    {
+        "number": 7,
+        "collect": "O God, the King of glory, you have exalted your only Son Jesus Christ with great triumph to your kingdom in heaven: Do not leave us comfortless, but send us your Holy Spirit to strengthen us, and exalt us to that place where our Savior Christ has gone before; who lives and reigns with you and the Holy Spirit, one God, in glory everlasting. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Ezek. 3:16-27",
+                "Eph. 2:1-10",
+                "Matt. 10:24-33, 40-42"
+            ],
+            "year_2_readings": [
+                "Exod. 3:1-12",
+                "Heb. 12:18-29",
+                "Luke 10:17-24"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19, 46"
+            },
+            "name": "The Seventh Sunday of Easter"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Ezek. 4:1-17",
+                "Heb. 6:1-12",
+                "Luke 9:51-62"
+            ],
+            "year_2_readings": [
+                "Joshua 1:1-9",
+                "Eph. 3:1-13",
+                "Matt. 8:5-17"
+            ],
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Ezek. 7:10-15, 23b-27",
+                "Heb. 6:13-20",
+                "Luke 10:1-17"
+            ],
+            "year_2_readings": [
+                "1 Sam. 16:1-13a",
+                "Eph. 3:14-21",
+                "Matt. 8:18-27"
+            ],
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Ezek. 11:14-25",
+                "Heb. 7:1-17",
+                "Luke 10:17-24"
+            ],
+            "year_2_readings": [
+                "Isa. 4:2-6",
+                "Eph. 4:1-16",
+                "Matt. 8:28-34"
+            ],
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Ezek. 18:1-4, 19-32",
+                "Heb. 7:18-28",
+                "Luke 10:25-37"
+            ],
+            "year_2_readings": [
+                "Zech. 4:1-14",
+                "Eph. 4:17-32",
+                "Matt. 9:1-8"
+            ],
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Ezek. 34:17-31",
+                "Heb. 8:1-13",
+                "Luke 10:38-42"
+            ],
+            "year_2_readings": [
+                "Jer. 31:27-34",
+                "Eph. 5:1-20",
+                "Matt. 9:9-17"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Ezek. 43:1-12",
+                "Heb. 9:1-14",
+                "Luke 11:14-23"
+            ],
+            "year_2_readings": [
+                "Ezek. 36:22-27",
+                "Eph. 6:10-24",
+                "Matt. 9:18-26"
+            ],
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "year_1_readings": [
+                    "Exod. 19:3-8a, 16-20",
+                    "1 Pet. 2:4-10"
+                ],
+                "year_2_readings": [
+                    "Exod. 19:3-8a, 16-20",
+                    "1 Pet. 2:4-10"
+                ],
+                "psalter": "33"
+            }
+        },
+        "name": "{{day_of_week}} after the Seventh Sunday of Easter"
+    },
+    {
+        "number": 8,
+        "collect": "Almighty God, on this day you opened the way of eternal life to every race and nation by the promised gift of your Holy Spirit: Shed abroad this gift throughout the world by the preaching of the Gospel, that it may reach to the ends of the earth; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 11:1-9",
+                "1 Cor. 2:1-13",
+                "John 14:21-29"
+            ],
+            "year_2_readings": [
+                "Deut. 16:9-12",
+                "Acts 4:18-21, 23-33",
+                "John 4:19-26"
+            ],
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "rank": "PRINCIPAL",
+            "name": "Pentecost"
+        }
+    },
+    {
+        "number": 9,
+        "collect": "Almighty and everlasting God, you have given to us your servants grace, by the confession of a true faith, to acknowledge the glory of the eternal Trinity, and in the power of your divine Majesty to worship the Unity: Keep us steadfast in this faith and worship, and bring us at last to see you in your one and eternal glory, O Father; who with the Son and the Holy Spirit live and reign, one God, for ever and ever. Amen.",
+        "season": "EASTER",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Ecclus. 43:1-12(27-33)",
+                "Eph. 4:1-16",
+                "John 1:1-18"
+            ],
+            "year_2_readings": [
+                "Job 38:1-11, 42:1-5",
+                "Rev. 19:4-16",
+                "John 1:29-34"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "vigil": {
+                "readings": [
+                    "Ecclus. 45:15-25",
+                    "Eph. 3:14-21"
+                ],
+                "psalter": "104"
+            },
+            "rank": "PRINCIPAL",
+            "name": "Trinity Sunday"
+        }
+    }
+]

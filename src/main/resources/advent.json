@@ -1,0 +1,525 @@
+[
+    {
+        "number": 1,
+        "collect": "Almighty God, give us grace to cast away the works of darkness, and put on the armor of light, now in the time of this mortal life in which your Son Jesus Christ came to visit us in great humility; that in the last day, when he shall come again in his glorious majesty to judge both the living and the dead, we may rise to the life immortal; through him who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "ADVENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 1:1-9",
+                "2 Pet. 3:1-10",
+                "Matt. 25:1-13"
+            ],
+            "year_2_readings": [
+                "Amos 1:1-5, 13--2:8",
+                "1 Thess. 5:1-11",
+                "Luke 21:5-19"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "name": "The First Sunday of Advent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Isa. 1:10-20",
+                "1 Thess. 1:1-10",
+                "Luke 20:1-8"
+            ],
+            "year_2_readings": [
+                "Amos 2:6-16",
+                "2 Pet. 1:1-11",
+                "Matt. 21:1-11"
+            ],
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Isa. 1:21-31",
+                "1 Thess. 2:1-12",
+                "Luke 20:9-18"
+            ],
+            "year_2_readings": [
+                "Amos 3:1-11",
+                "2 Pet. 1:12-21",
+                "Matt. 21:12-22"
+            ],
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10,11"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Isa. 2:1-11",
+                "1 Thess. 2:13-20",
+                "Luke 20:19-26"
+            ],
+            "year_2_readings": [
+                "Amos 3:12--4:5",
+                "2 Pet. 3:1-10",
+                "Matt. 21:23-32"
+            ],
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Isa. 2:12-22",
+                "1 Thess. 3:1-13",
+                "Luke 20:27-40"
+            ],
+            "year_2_readings": [
+                "Amos 4:6-13",
+                "2 Pet. 3:11-18",
+                "Matt. 21:33-46"
+            ],
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Isa. 3:8-15",
+                "1 Thess. 4:1-12",
+                "Luke 20:41--21:4"
+            ],
+            "year_2_readings": [
+                "Amos 5:1-17",
+                "Jude 1-16",
+                "Matt. 22:1-14"
+            ],
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Isa. 4:2-6",
+                "1 Thess. 4:13-18",
+                "Luke 21:5-19"
+            ],
+            "year_2_readings": [
+                "Amos 5:18-27",
+                "Jude 17-25",
+                "Matt. 22:15-22"
+            ],
+            "morning": {
+                "psalter": "20, 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            }
+        },
+        "name": "{{day_of_week}} after the First Sunday of Advent"
+    },
+    {
+        "number": 2,
+        "collect": "Merciful God, who sent your messengers the prophets to preach repentance and prepare the way for our salvation: Give us grace to heed their warnings and forsake our sins, that we may greet with joy the coming of Jesus Christ our Redeemer; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "ADVENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 5:1-7",
+                "2 Pet. 3:11-18",
+                "Luke 7:28-35"
+            ],
+            "year_2_readings": [
+                "Amos 6:1-14",
+                "2 Thess. 1:5-12",
+                "Luke 1:57-67"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "The Second Sunday of Advent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Isa. 5:8-12, 18-23",
+                "1 Thess. 5:1-11",
+                "Luke 21:20-28"
+            ],
+            "year_2_readings": [
+                "Amos 7:1-9",
+                "Rev. 1:1-8",
+                "Matt. 22:23-33"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Isa. 5:13-17, 24-25",
+                "1 Thess. 5:12-28",
+                "Luke 21:29-38"
+            ],
+            "year_2_readings": [
+                "Amos 7:10-17",
+                "Rev. 1:9-16",
+                "Matt. 22:34-46"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Isa. 6:1-13",
+                "2 Thess. 1:1-12",
+                "John 7:53--8:11"
+            ],
+            "year_2_readings": [
+                "Amos 8:1-14",
+                "Rev. 1:17--2:7",
+                "Matt. 23:1-12"
+            ],
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Isa. 7:1-9",
+                "2 Thess. 2:1-12",
+                "Luke 22:1-13"
+            ],
+            "year_2_readings": [
+                "Amos 9:1-10",
+                "Rev. 2:8-17",
+                "Matt. 23:13-26"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Isa. 7:10-25",
+                "2 Thess. 2:13--3:5",
+                "Luke 22:14-30"
+            ],
+            "year_2_readings": [
+                "Haggai 1:1-15",
+                "Rev. 2:18-29",
+                "Matt. 23:27-39"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Isa. 8:1-15",
+                "2 Thess. 3:6-18",
+                "Luke 22:31-38"
+            ],
+            "year_2_readings": [
+                "Haggai 2:1-9",
+                "Rev. 3:1-6",
+                "Matt. 24:1-14"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the Second Sunday of Advent"
+    },
+    {
+        "number": 3,
+        "collect": "Stir up your power, O Lord, and with great might come among us; and, because we are sorely hindered by our sins, let your bountiful grace and mercy speedily help and deliver us; through Jesus Christ our Lord, to whom, with you and the Holy Spirit, be honor and glory, now and for ever. Amen.",
+        "season": "ADVENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 13:6-13",
+                "Heb. 12:18-29",
+                "John 3:22-30"
+            ],
+            "year_2_readings": [
+                "Amos 9:11-15",
+                "2 Thess. 2:1-3, 13-17",
+                "John 5:30-47"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The Third Sunday of Advent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Isa. 8:16--9:1",
+                "2 Pet. 1:1-11",
+                "Luke 22:39-53"
+            ],
+            "year_2_readings": [
+                "Zech. 1:7-17",
+                "Rev. 3:7-13",
+                "Matt. 24:15-31"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Isa. 9:1-7",
+                "2 Pet. 1:12-21",
+                "Luke 22:54-69"
+            ],
+            "year_2_readings": [
+                "Zech. 2:1-13",
+                "Rev. 3:14-22",
+                "Matt. 24:32-44"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            }
+        },
+        "WEDNESDAY": {
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "year_1_readings": [
+                "Isa. 9:8-17",
+                "2 Pet. 2:1-10a",
+                "Mark 1:1-8"
+            ],
+            "year_2_readings": [
+                "Zech. 3:1-10",
+                "Rev. 4:1-8",
+                "Matt. 24:45-51"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            },
+            "name": "Winter Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Isa. 9:18--10:4",
+                "2 Pet. 2:10b-16",
+                "Matt. 3:1-12"
+            ],
+            "year_2_readings": [
+                "Zech. 4:1-14",
+                "Rev. 4:9--5:5",
+                "Matt. 25:1-13"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 33"
+            }
+        },
+        "FRIDAY": {
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "year_1_readings": [
+                "Isa. 10:5-19",
+                "2 Pet. 2:17-22",
+                "Matt. 11:2-15"
+            ],
+            "year_2_readings": [
+                "Zech. 7:8--8:8",
+                "Rev. 5:6-14",
+                "Matt. 25:14-30"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            },
+            "name": "Winter Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "SATURDAY": {
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "year_1_readings": [
+                "Isa. 10:20-27",
+                "Jude 17-25",
+                "Luke 3:1-9"
+            ],
+            "year_2_readings": [
+                "Zech. 8:9-17",
+                "Rev. 6:1-17",
+                "Matt. 25:31-46"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            },
+            "name": "Winter Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "name": "{{day_of_week}} after the Third Sunday of Advent"
+    },
+    {
+        "number": 4,
+        "collect": "Purify our conscience, Almighty God, by your daily visitation, that your Son Jesus Christ, at his coming, may find in us a mansion prepared for himself; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "ADVENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 42:1-12",
+                "Eph. 6:10-20",
+                "John 3:16-21"
+            ],
+            "year_2_readings": [
+                "Gen. 3:8-15",
+                "Rev. 12:1-10",
+                "John 3:16-21"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The Fourth Sunday of Advent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Isa. 11:1-9",
+                "Rev. 20:1-10",
+                "John 5:30-47"
+            ],
+            "year_2_readings": [
+                "Zeph. 3:14-20",
+                "Titus 1:1-16",
+                "Luke 1:1-25"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "112, 115"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Isa 11:10-16",
+                "Rev. 20:11--21:8",
+                "Luke 1:5-25"
+            ],
+            "year_2_readings": [
+                "1 Samuel 2:1b-10",
+                "Titus 2:1-10",
+                "Luke 1:26-38"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "116, 117"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Isa. 28:9-22",
+                "Rev. 21:9-21",
+                "Luke 1:26-38"
+            ],
+            "year_2_readings": [
+                "2 Samuel 7:1-17",
+                "Titus 2:11--3:8a",
+                "Luke 1:39-48a(48b-56)"
+            ],
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "111, 113"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Isa. 29:13-24",
+                "Rev. 21:22--22:5",
+                "Luke 1:39-48a(48b-56)"
+            ],
+            "year_2_readings": [
+                "2 Samuel 7:18-29",
+                "Gal. 3:1-14",
+                "Luke 1:57-66"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "146, 147"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Isa. 33:17-22",
+                "Rev. 22:6-11, 18-20",
+                "Luke 1:57-66"
+            ],
+            "year_2_readings": [
+                "Baruch 4:21-29",
+                "Gal 3:15-22",
+                "Luke 1:67-80 or Matt. 1:1-17"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "148, 150"
+            }
+        },
+        "name": "{{day_of_week}} after the Fourth Sunday of Advent"
+    }
+]

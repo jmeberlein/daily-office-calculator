@@ -1,0 +1,948 @@
+{
+    "0101": {
+        "collect": "Eternal Father, you gave to your incarnate Son the holy name of Jesus to be the sign of our salvation: Plant in every heart, we pray, the love of him who is the Savior of the world, our Lord Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, in glory everlasting. Amen.",
+        "evening": {
+            "psalter": "148"
+        },
+        "morning": {
+            "psalter": "103"
+        },
+        "name": "Feast of the Holy Name",
+        "rank": "PRINCIPAL",
+        "year_1_readings": [
+            "Gen. 17:1-12a, 15-16",
+            "Col. 2:6-12",
+            "John 16:23b-30"
+        ],
+        "year_2_readings": [
+            "Isa. 62:1-5, 10-12",
+            "Rev. 19:11-16",
+            "Matt. 1:18-25"
+        ]
+    },
+    "0102": {
+        "evening": {
+            "psalter": "33"
+        },
+        "morning": {
+            "psalter": "34"
+        },
+        "year_1_readings": [
+            "Gen. 12:1-7",
+            "Heb. 11:1-12",
+            "John 6:35-41, 48-51"
+        ],
+        "year_2_readings": [
+            "1 Kings 19:1-8",
+            "Eph. 4:1-16",
+            "John 6:1-14"
+        ]
+    },
+    "0103": {
+        "evening": {
+            "psalter": "72"
+        },
+        "morning": {
+            "psalter": "68"
+        },
+        "year_1_readings": [
+            "Gen. 28:10-22",
+            "Heb. 11:13-22",
+            "John 10:7-17"
+        ],
+        "year_2_readings": [
+            "1 Kings 19:9-18",
+            "Eph. 4:17-32",
+            "John 6:15-27"
+        ]
+    },
+    "0104": {
+        "evening": {
+            "psalter": "89:1-29"
+        },
+        "morning": {
+            "psalter": "85, 87"
+        },
+        "year_1_readings": [
+            "Exod. 3:1-12",
+            "Heb. 11:23-31",
+            "John 14:6-14"
+        ],
+        "year_2_readings": [
+            "Joshua 3:14--4:7",
+            "Eph. 5:1-20",
+            "John 9:1-12, 35-38"
+        ]
+    },
+    "0105": {
+        "evening": {
+            "psalter": "29, 98",
+            "readings": [
+                "Isa. 66:18-23",
+                "Rom. 15:7-13"
+            ]
+        },
+        "morning": {
+            "psalter": "2, 110:1-5(6-7)"
+        },
+        "year_1_readings": [
+            "Joshua 1:1-9",
+            "Heb. 11:32--12:2",
+            "John 15:1-16"
+        ],
+        "year_2_readings": [
+            "Jonah 2:2-9",
+            "Eph. 6:10-20",
+            "John 11:17-27, 38-44"
+        ]
+    },
+    "0106": {
+        "collect": "O God, by the leading of a star you manifested your only Son to the Peoples of the earth: Lead us, who know you now by faith, to your presence, where we may see your glory face to face; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "96, 100"
+        },
+        "morning": {
+            "psalter": "46, 97"
+        },
+        "name": "Epiphany",
+        "rank": "PRINCIPAL",
+        "year_1_readings": [
+            "Isa. 52:7-10",
+            "Rev. 21:22-27",
+            "Matt. 12:14-21"
+        ],
+        "year_2_readings": [
+            "Isa. 49:1-7",
+            "Rev. 21:22-27",
+            "Matt. 12-14-21"
+        ]
+    },
+    "0107": {
+        "evening": {
+            "psalter": "114, 115"
+        },
+        "morning": {
+            "psalter": "103"
+        },
+        "year_1_readings": [
+            "Isa. 52:3-6",
+            "Rev. 2:1-7",
+            "John 2:1-11"
+        ],
+        "year_2_readings": [
+            "Deut. 8:1-3",
+            "Col. 1:1-14",
+            "John 6:30-33, 48-51"
+        ]
+    },
+    "0108": {
+        "evening": {
+            "psalter": "112, 113"
+        },
+        "morning": {
+            "psalter": "117, 118"
+        },
+        "year_1_readings": [
+            "Isa. 59:15-21",
+            "Rev. 2:8-17",
+            "John 4:46-54"
+        ],
+        "year_2_readings": [
+            "Exod. 17:1-7",
+            "Col. 1:15-23",
+            "John 7:37-52"
+        ]
+    },
+    "0109": {
+        "evening": {
+            "psalter": "131, 132"
+        },
+        "morning": {
+            "psalter": "121, 122, 123"
+        },
+        "year_1_readings": [
+            "Isa. 63:1-5",
+            "Rev. 2:18-29",
+            "John 5:1-15"
+        ],
+        "year_2_readings": [
+            "Isa. 45:14-19",
+            "Col. 1:21--2:7",
+            "John 8:12-19"
+        ]
+    },
+    "0110": {
+        "evening": {
+            "psalter": "147"
+        },
+        "morning": {
+            "psalter": "138, 139:1-17(18-23)"
+        },
+        "year_1_readings": [
+            "Isa. 65:1-9",
+            "Rev. 3:1-6",
+            "John 6:1-14"
+        ],
+        "year_2_readings": [
+            "Jer. 23:1-8",
+            "Col. 2:8-23",
+            "John 10:7-17"
+        ]
+    },
+    "0111": {
+        "evening": {
+            "psalter": "91, 92"
+        },
+        "morning": {
+            "psalter": "148, 150"
+        },
+        "year_1_readings": [
+            "Isa. 65:13-16",
+            "Rev. 3:7-13",
+            "John 6:15-27"
+        ],
+        "year_2_readings": [
+            "Isa. 55:3-9",
+            "Col. 3:1-17",
+            "John 14:6-14"
+        ]
+    },
+    "0112": {
+        "morning": {
+            "psalter": "98, 99, [100]"
+        },
+        "year_1_readings": [
+            "Isa. 66:1-2, 22-23",
+            "Rev. 3:14-22",
+            "John 9:1-12, 35-38"
+        ],
+        "year_2_readings": [
+            "Gen. 49:1-2, 8-12",
+            "Col. 3:18--4:6",
+            "John 15:1-16"
+        ]
+    },
+    "0118": {
+        "collect": "Almighty Father, who inspired Saint Peter, first among the apostles, to confess Jesus as Messiah and Son of the living God: Keep your Church steadfast upon the rock of this faith, so that in unity and peace we may proclaim the one truth and follow the one Lord, our Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "118",
+            "readings": [
+                "Ezekiel 34:11-16",
+                "John 21:15-22"
+            ]
+        },
+        "morning": {
+            "psalter": "66,67",
+            "readings": [
+                "Ezekiel 3:4-11",
+                "Acts 10:34-44"
+            ]
+        },
+        "name": "Confession of St. Peter",
+        "rank": "FEAST"
+    },
+    "0125": {
+        "collect": "O God, by the preaching of your apostle Paul you have caused the light of the Gospel to shine throughout the world: Grant, we pray, that we, having his wonderful conversion in remembrance, may show ourselves thankful to you by following his holy teaching; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "119:89-112",
+            "readings": [
+                "Ecclesiasticus 39:1-10",
+                "Acts 9:1-22"
+            ]
+        },
+        "morning": {
+            "psalter": "19",
+            "readings": [
+                "Isaiah 45:18-25",
+                "Philippians 3:4b-11"
+            ]
+        },
+        "name": "Conversion of St. Paul",
+        "rank": "FEAST"
+    },
+    "0202": {
+        "collect": "Almighty and everliving God, we humbly pray that, as your only-begotten Son was this day presented in the temple, so we may be presented to you with pure and clean hearts by Jesus Christ our Lord; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "48,87",
+            "readings": [
+                "Haggai 2:1-9",
+                "1 John 3:1-8"
+            ]
+        },
+        "morning": {
+            "psalter": "42,43",
+            "readings": [
+                "1 Samuel 2:1-10",
+                "John 8:31-36"
+            ]
+        },
+        "name": "Candlemas",
+        "rank": "PRINCIPAL",
+        "vigil": {
+            "psalter": "113,122",
+            "readings": [
+                "1 Samuel 1:20-28a",
+                "Romans 8:14-21"
+            ]
+        }
+    },
+    "0224": {
+        "collect": "Almighty God, who in the place of Judas chose your faithful servant Matthias to be numbered among the Twelve: Grant that your Church, being delivered from false apostles, may always be guided and governed by faithful and true pastors; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "33",
+            "readings": [
+                "1 Samuel 12:1-5",
+                "Acts 20:17-35"
+            ]
+        },
+        "morning": {
+            "psalter": "80",
+            "readings": [
+                "1 Samuel 16:1-13",
+                "1 John 2:18-25"
+            ]
+        },
+        "name": "Feast of St. Matthias",
+        "rank": "FEAST"
+    },
+    "0319": {
+        "collect": "O God, who from the family of your servant David raised up Joseph to be the guardian of your incarnate Son and the spouse of his virgin mother: Give us grace to imitate his uprightness of life and his obedience to your commands; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "34",
+            "readings": [
+                "2 Chronicles 6:12-17",
+                "Ephesians 3:14-21"
+            ]
+        },
+        "morning": {
+            "psalter": "132",
+            "readings": [
+                "Isaiah 63:7-16",
+                "Matthew 1:18-25"
+            ]
+        },
+        "name": "Feast of St. Joseph",
+        "rank": "FEAST"
+    },
+    "0325": {
+        "collect": "Pour your grace into our hearts, O Lord, that we who have known the incarnation of your Son Jesus Christ, announced by an angel to the Virgin Mary, may by his cross and passion be brought to the glory of his resurrection; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "110:1-5(6-7),132",
+            "readings": [
+                "Wisdom 9:1-12",
+                "John 1:9-14"
+            ]
+        },
+        "morning": {
+            "psalter": "85,87",
+            "readings": [
+                "Isaiah 52:7-12",
+                "Hebrews 2:5-10"
+            ]
+        },
+        "name": "Feast of the Annunciation",
+        "rank": "FEAST",
+        "vigil": {
+            "psalter": "8,138",
+            "readings": [
+                "Genesis 3:1-15",
+                "Romans 5:12-21"
+            ]
+        }
+    },
+    "0425": {
+        "collect": "Almighty God, by the hand of Mark the evangelist you have given to your Church the Gospel of Jesus Christ the Son of God: We thank you for this witness, and pray that we may be firmly grounded in its truth; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "67,96",
+            "readings": [
+                "Isaiah 62:6-12",
+                "2 Timothy 4:1-11"
+            ]
+        },
+        "morning": {
+            "psalter": "145",
+            "readings": [
+                "Ecclesiasticus 2:1-11",
+                "Acts 12:25--13:3"
+            ]
+        },
+        "name": "Feast of St. Mark",
+        "rank": "FEAST"
+    },
+    "0501": {
+        "collect": "Almighty God, who gave to your apostles Philip and James grace and strength to bear witness to the truth: Grant that we, being mindful of their victory of faith, may glorify in life and death the Name of our Lord Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "139",
+            "readings": [
+                "Proverbs 4:7-18",
+                "John 12:20-26"
+            ]
+        },
+        "morning": {
+            "psalter": "119:137-160",
+            "readings": [
+                "Job 23:1-12",
+                "John 1:43-51"
+            ]
+        },
+        "name": "Feast of Ss. Philip & James",
+        "rank": "FEAST"
+    },
+    "0531": {
+        "collect": "Father in heaven, by your grace the virgin mother of your incarnate Son was blessed in bearing him, but still more blessed in keeping your word: Grant us who honor the exaltation of her lowliness to follow the example of her devotion to your will; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "146,147",
+            "readings": [
+                "Zechariah 2:10-13",
+                "John 3:25-30"
+            ]
+        },
+        "morning": {
+            "psalter": "72",
+            "readings": [
+                "1 Samuel 1:1-20",
+                "Hebrews 3:1-6"
+            ]
+        },
+        "name": "Feast of the Visitation",
+        "rank": "FEAST",
+        "vigil": {
+            "psalter": "132",
+            "readings": [
+                "Isaiah 11:1-10",
+                "Hebrews 2:11-18"
+            ]
+        }
+    },
+    "0611": {
+        "collect": "Grant, O God, that we may follow the example of your faithful servant Barnabas, who, seeking not his own renown but the well-being of your Church, gave generously of his life and substance for the relief of the poor and the spread of the Gospel; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "19,146",
+            "readings": [
+                "Job 29:1-16",
+                "Acts 9:26-31"
+            ]
+        },
+        "morning": {
+            "psalter": "15,67",
+            "readings": [
+                "Ecclesiasticus 31:3-11",
+                "Acts 4:32-37"
+            ]
+        },
+        "name": "Feast of St. Barnabas",
+        "rank": "FEAST"
+    },
+    "0624": {
+        "collect": "Almighty God, by whose providence your servant John the Baptist was wonderfully born, and sent to prepare the way of your Son our Savior by preaching repentance: Make us so to follow his teaching and holy life, that we may truly repent according to his preaching; and, following his example, constantly speak the truth, boldly rebuke vice, and patiently suffer for the truth's sake; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "80",
+            "readings": [
+                "Malachi 4:1-6",
+                "Matthew 11:2-19"
+            ]
+        },
+        "morning": {
+            "psalter": "82,98",
+            "readings": [
+                "Malachi 3:1-5",
+                "John 3:22-30"
+            ]
+        },
+        "name": "Nativity of St. John the Baptist",
+        "rank": "FEAST",
+        "vigil": {
+            "psalter": "103",
+            "readings": [
+                "Ecclesiasticus 48:1-11",
+                "Luke 1:5-23"
+            ]
+        }
+    },
+    "0629": {
+        "collect": "Almighty God, whose blessed apostles Peter and Paul glorified you by their martyrdom: Grant that your Church, instructed by their teaching and example, and knit together in unity by your Spirit, may ever stand firm upon the one foundation, which is Jesus Christ our Lord; who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "97,138",
+            "readings": [
+                "Isaiah 49:1-6",
+                "Galatians 2:1-9"
+            ]
+        },
+        "morning": {
+            "psalter": "66",
+            "readings": [
+                "Ezekiel 2:1-7",
+                "Acts 11:1-18"
+            ]
+        },
+        "name": "Feast of Ss. Peter & Paul",
+        "rank": "FEAST"
+    },
+    "0704": {
+        "collect": "Lord God Almighty, in whose Name the founders of this country won liberty for themselves and for us, and lit the torch of freedom for nations then unborn: Grant that we and all the people of this land may have grace to maintain our liberties in righteousness and peace; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "107:1-32",
+            "readings": [
+                "Micah 4:1-5",
+                "Revelation 21:1-7"
+            ]
+        },
+        "morning": {
+            "psalter": "33",
+            "readings": [
+                "Ecclesiasticus 10:1-8,12-18",
+                "James 5:7-10"
+            ]
+        },
+        "name": "Independence Day",
+        "rank": "FEAST"
+    },
+    "0722": {
+        "collect": "Almighty God, whose blessed Son restored Mary Magdalene to health of body and of mind, and called her to be a witness of his resurrection: Mercifully grant that by your grace we may be healed from all our infirmities and know you in the power of his unending life; who with you and the Holy Spirit lives and reigns, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "30,149",
+            "readings": [
+                "Exodus 15:19-21",
+                "2 Corinthians 1:3-7"
+            ]
+        },
+        "morning": {
+            "psalter": "116",
+            "readings": [
+                "Zephaniah 3:14-20",
+                "Mark 15:47--16:7"
+            ]
+        },
+        "name": "Feast of St. Mary Magdalene",
+        "rank": "FEAST"
+    },
+    "0725": {
+        "collect": "O gracious God, we remember before you today your servant and apostle James, first among the Twelve to suffer martyrdom for the Name of Jesus Christ; and we pray that you will pour out upon the leaders of your Church that spirit of self-denying service by which alone they may have true authority among your people; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "33",
+            "readings": [
+                "Jeremiah 26:1-15",
+                "Matthew 10:16-32"
+            ]
+        },
+        "morning": {
+            "psalter": "34",
+            "readings": [
+                "Jeremiah 16:14-21",
+                "Mark 1:14-20"
+            ]
+        },
+        "name": "Feast of St. James the Greater",
+        "rank": "FEAST"
+    },
+    "0806": {
+        "collect": "O God, who on the holy mount revealed to chosen witnesses your well-beloved Son, wonderfully transfigured, in raiment white and glistening: Mercifully grant that we, being delivered from the disquietude of this world, may by faith behold the King in his beauty; who with you, O Father, and you, O Holy Spirit, lives and reigns, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "72",
+            "readings": [
+                "Daniel 7:9-10,13-14",
+                "John 12:27-36a"
+            ]
+        },
+        "morning": {
+            "psalter": "2,24",
+            "readings": [
+                "Exodus 24:12-18",
+                "2 Corinthians 4:1-6"
+            ]
+        },
+        "name": "Feast of the Transfiguration",
+        "rank": "PRINCIPAL",
+        "vigil": {
+            "psalter": "84",
+            "readings": [
+                "1 Kings 19:1-12",
+                "2 Corinthians 3:1-9,18"
+            ]
+        }
+    },
+    "0815": {
+        "collect": "O God, you have taken to yourself the blessed Virgin Mary, mother of your incarnate Son: Grant that we, who have been redeemed by his blood, may share with her the glory of your eternal kingdom; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "45, or 138, 149",
+            "readings": [
+                "Jeremiah 31:1-14",
+                "John 19:23-27"
+            ]
+        },
+        "morning": {
+            "psalter": "113,115",
+            "readings": [
+                "1 Samuel 2:1-10",
+                "John 2:1-12"
+            ]
+        },
+        "name": "Feast of Mary, Mother of God",
+        "rank": "FEAST"
+    },
+    "0824": {
+        "collect": "Almighty and everlasting God, who gave to your apostle Bartholomew grace truly to believe and to preach your Word: Grant that your Church may love what he believed and preach what he taught; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "15,67",
+            "readings": [
+                "Isaiah 66:1-2,18-23",
+                "1 Peter 5:1-11"
+            ]
+        },
+        "morning": {
+            "psalter": "86",
+            "readings": [
+                "Genesis 28:10-17",
+                "John 1:43-51"
+            ]
+        },
+        "name": "Feast of St. Bartholomew",
+        "rank": "FEAST"
+    },
+    "0914": {
+        "collect": "Almighty God, whose Son our Savior Jesus Christ was lifted high upon the cross that he might draw the whole world to himself: Mercifully grant that we, who glory in the mystery of our redemption, may have grace to take up our cross and follow him; who lives and reigns with you and the Holy Spirit, one God, in glory everlasting. Amen.",
+        "evening": {
+            "psalter": "118",
+            "readings": [
+                "Genesis 3:1-15",
+                "1 Peter 3:17-22"
+            ]
+        },
+        "morning": {
+            "psalter": "66",
+            "readings": [
+                "Numbers 21:4-9",
+                "John 3:11-17"
+            ]
+        },
+        "name": "Roodmas",
+        "rank": "FEAST",
+        "vigil": {
+            "psalter": "46,87",
+            "readings": [
+                "1 Kings 8:22-30",
+                "Ephesians 2:11-22"
+            ]
+        }
+    },
+    "0921": {
+        "collect": "We thank you, heavenly Father, for the witness of your apostle and evangelist Matthew to the Gospel of your Son our Savior; and we pray that, after his example, we may with ready wills and hearts obey the calling of our Lord to follow him; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "19,112",
+            "readings": [
+                "Job 28:12-28",
+                "Matthew 13:44-52"
+            ]
+        },
+        "morning": {
+            "psalter": "119:41-64",
+            "readings": [
+                "Isaiah 8:11-20",
+                "Romans 10:1-15"
+            ]
+        },
+        "name": "Feast of St. Matthew",
+        "rank": "FEAST"
+    },
+    "0929": {
+        "collect": "Everlasting God, you have ordained and constituted in a wonderful order the ministries of angels and mortals: Mercifully grant that, as your holy angels always serve and worship you in heaven, so by your appointment they may help and defend us here on earth; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "34, 150, or 104",
+            "readings": [
+                "Daniel 12:1-3",
+                "Mark 13:21-27"
+            ]
+        },
+        "morning": {
+            "psalter": "8,148",
+            "readings": [
+                "Job 38:1-7",
+                "Hebrews 1:1-14"
+            ]
+        },
+        "name": "Michaelmas",
+        "rank": "FEAST"
+    },
+    "1018": {
+        "collect": "Almighty God, who inspired your servant Luke the physician to set forth in the Gospel the love and healing power of your Son: Graciously continue in your Church this love and power to heal, to the praise and glory of your Name; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "67,96",
+            "readings": [
+                "Isaiah 52:7-10",
+                "Acts 1:1-8"
+            ]
+        },
+        "morning": {
+            "psalter": "103",
+            "readings": [
+                "Ezekiel 47:1-12",
+                "Luke 1:1-4"
+            ]
+        },
+        "name": "Feast of St. Luke",
+        "rank": "FEAST"
+    },
+    "1023": {
+        "collect": "Grant, O God, that, following the example of your servant James the Just, brother of our Lord, your Church may give itself continually to prayer and to the reconciliation of all who are at variance and enmity; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "122,125",
+            "readings": [
+                "Isaiah 65:17-25",
+                "Hebrews 12:12-24"
+            ]
+        },
+        "morning": {
+            "psalter": "119:145-168",
+            "readings": [
+                "Jeremiah 11:18-23",
+                "Matthew 10:16-22"
+            ]
+        },
+        "name": "Feast of St. James, Brother of the Lord",
+        "rank": "FEAST"
+    },
+    "1028": {
+        "collect": "O God, we thank you for the glorious company of the apostles, and especially on this day for Simon and Jude; and we pray that, as they were faithful and zealous in their mission, so we may with ardent devotion make known the love and mercy of our Lord and Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "116,117",
+            "readings": [
+                "Isaiah 4:2-6",
+                "John 14:15-31"
+            ]
+        },
+        "morning": {
+            "psalter": "66",
+            "readings": [
+                "Isaiah 28:9-16",
+                "Ephesians 4:1-16"
+            ]
+        },
+        "name": "Feast of Ss. Simon & Jude",
+        "rank": "FEAST"
+    },
+    "1101": {
+        "collect": "Almighty God, you have knit together your elect in one communion and fellowship in the mystical body of your Son Christ our Lord: Give us grace so to follow your blessed saints in all virtuous and godly living, that we may come to those ineffable joys that you have prepared for those who truly love you; through Jesus Christ our Lord, who with you and the Holy Spirit lives and reigns, one God, in glory everlasting. Amen.",
+        "evening": {
+            "psalter": "148,150",
+            "readings": [
+                "Wisdom 5:1-5,14-16",
+                "Revelation 21:1-4,22--22:5"
+            ]
+        },
+        "morning": {
+            "psalter": "111,112",
+            "readings": [
+                "2 Esdras 2:42-47",
+                "Hebrews 11:32--12:2"
+            ]
+        },
+        "name": "All Saints' Day",
+        "rank": "FEAST",
+        "vigil": {
+            "psalter": "34",
+            "readings": [
+                "Wisdom 3:1-9",
+                "Revelation 19:1,4-10"
+            ]
+        }
+    },
+    "1130": {
+        "collect": "Almighty God, who gave such grace to your apostle Andrew that he readily obeyed the call of your Son Jesus Christ, and brought his brother with him: Give us, who are called by your holy Word, grace to follow him without delay, and to bring those near to us into his gracious presence; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "96,100",
+            "readings": [
+                "Isaiah 55:1-5",
+                "John 1:35-42"
+            ]
+        },
+        "morning": {
+            "psalter": "34",
+            "readings": [
+                "Isaiah 49:1-6",
+                "1 Corinthians 4:1-16"
+            ]
+        },
+        "name": "Feast of St. Andrew",
+        "rank": "FEAST"
+    },
+    "1221": {
+        "collect": "Everliving God, who strengthened your apostle Thomas with firm and certain faith in your Son's resurrection: Grant us so perfectly and without doubt to believe in Jesus Christ, our Lord and our God, that our faith may never be found wanting in your sight; through him who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "evening": {
+            "psalter": "27",
+            "readings": [
+                "Isaiah 43:8-13",
+                "John 14:1-7"
+            ]
+        },
+        "morning": {
+            "psalter": "23,121",
+            "readings": [
+                "Job 42:1-6",
+                "1 Peter 1:3-9"
+            ]
+        },
+        "name": "Feast of St. Thomas",
+        "rank": "FEAST"
+    },
+    "1224": {
+        "name": "Christmas Eve",
+        "rank": "PRINCIPAL",
+        "year_1_readings": [
+            "Isa. 35:1-10",
+            "Rev. 22:12-17,21",
+            "Luke 1:67-80"
+        ],
+        "year_2_readings": [
+            "Baruch 4:36--5:9",
+            "Gal. 3:23--4:7",
+            "Matt. 1:18-25"
+        ],
+        "morning": {
+            "psalter": "45, 46"
+        },
+        "evening": {
+            "collect": "O God, you have caused this holy night to shine with the brightness of the true Light: Grant that we, who have known the mystery of that Light on earth, may also enjoy him perfectly in heaven; where with you and the Holy Spirit he lives and reigns, one God, in glory everlasting. Amen.",
+            "psalter": "89:1-29",
+            "readings": [
+                "Isa. 59:15b-21",
+                "Phil. 2:5-11"
+            ]
+        }
+    },
+    "1225": {
+        "collect": "Almighty God, you have given your only-begotten Son to take our nature upon him, and to be born this day of a pure virgin: Grant that we, who have been born again and made your children by adoption and grace, may daily be renewed by your Holy Spirit; through our Lord Jesus Christ, to whom with you and the same Spirit be honor and glory, now and for ever. Amen.",
+        "evening": {
+            "psalter": "110:1-5(6-7), 132"
+        },
+        "morning": {
+            "psalter": "2, 85"
+        },
+        "name": "Christmas",
+        "rank": "PRINCIPAL",
+        "year_1_readings": [
+            "Zech. 2:10-13",
+            "1 John 4:7-16",
+            "John 3:31-36"
+        ],
+        "year_2_readings": [
+            "Micah 4:1-5; 5:2-4",
+            "1 John 4:7-16",
+            "John 3:31-36"
+        ]
+    },
+    "1226": {
+        "collect": "We give you thanks, O Lord of glory, for the example of the first martyr Stephen, who looked up to heaven and prayed for his persecutors to your Son Jesus Christ, who stands at your right hand; where he lives and reigns with you and the Holy Spirit, one God, in glory everlasting. Amen.",
+        "evening": {
+            "psalter": "118",
+            "readings": [
+                "Wisdom 4:7-15",
+                "Acts 7:59--8:8"
+            ]
+        },
+        "morning": {
+            "psalter": "28,30",
+            "readings": [
+                "2 Chronicles 24:17-22",
+                "Acts 6:1-7"
+            ]
+        },
+        "name": "Feast of St. Stephen",
+        "rank": "FEAST"
+    },
+    "1227": {
+        "collect": "Shed upon your Church, O Lord, the brightness of your light, that we, being illumined by the teaching of your apostle and evangelist John, may so walk in the light of your truth, that at length we may attain to the fullness of eternal life; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "145",
+            "readings": [
+                "Isaiah 44:1-8",
+                "1 John 5:1-12"
+            ]
+        },
+        "morning": {
+            "psalter": "97,98",
+            "readings": [
+                "Proverbs 8:22-30",
+                "John 13:20-35"
+            ]
+        },
+        "name": "Feast of St. John",
+        "rank": "FEAST"
+    },
+    "1228": {
+        "collect": "We remember today, O God, the slaughter of the holy innocents of Bethlehem by King Herod. Receive, we pray, into the arms of your mercy all innocent victims; and by your great might frustrate the designs of evil tyrants and establish your rule of justice, love, and peace; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+        "evening": {
+            "psalter": "19,126",
+            "readings": [
+                "Isaiah 54:1-13",
+                "Mark 10:13-16"
+            ]
+        },
+        "morning": {
+            "psalter": "2,26",
+            "readings": [
+                "Isaiah 49:13-23",
+                "Matthew 18:1-14"
+            ]
+        },
+        "name": "Feast of the Holy Innocents",
+        "rank": "FEAST"
+    },
+    "1229": {
+        "evening": {
+            "psalter": "18:21-50"
+        },
+        "morning": {
+            "psalter": "18:1-20"
+        },
+        "year_1_readings": [
+            "Isa. 12:1-6",
+            "Rev. 1:1-8",
+            "John 7:37-52"
+        ],
+        "year_2_readings": [
+            "2 Samuel 23:13-17b",
+            "2 John -13",
+            "John 2:1-11"
+        ]
+    },
+    "1230": {
+        "evening": {
+            "psalter": "23, 27"
+        },
+        "morning": {
+            "psalter": "20, 21:1-7(8-14)"
+        },
+        "year_1_readings": [
+            "Isa. 25:1-9",
+            "Rev. 1:9-20",
+            "John 7:53--8:11"
+        ],
+        "year_2_readings": [
+            "1 Kings 17:17-24",
+            "3 John 1-14",
+            "John 4:46-54"
+        ]
+    },
+    "1231": {
+        "evening": {
+            "psalter": "90",
+            "readings": [
+                "Isa. 65:15b-25",
+                "Rev. 21:1-6"
+            ]
+        },
+        "morning": {
+            "psalter": "46, 48"
+        },
+        "year_1_readings": [
+            "Isa. 26:1-9",
+            "2 Cor. 5:16--6:2",
+            "John 8:12-19"
+        ],
+        "year_2_readings": [
+            "1 Kings 3:5-14",
+            "James 4:13-17; 5:7-11",
+            "John 5:1-15"
+        ]
+    }
+}

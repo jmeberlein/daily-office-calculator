@@ -1,0 +1,3830 @@
+[
+    {
+        "number": 1,
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost",
+        "collect": "Remember, O Lord, what you have wrought in us and not what we deserve; and, as you have called us to your service, make us worthy of our calling; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and forever. Amen.",
+        "season": "PENTECOST",
+        "MONDAY": {
+            "year_1_readings": [
+                "Isa. 63:7-14",
+                "2 tim. 1:1-14",
+                "Luke 11:24-36"
+            ],
+            "year_2_readings": [
+                "Ezek. 33:1-11",
+                "1 John 1:1-10",
+                "Matt. 9:27-34"
+            ],
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Isa. 63:15--64:9",
+                "2 Tim. 1:15--2:13",
+                "Luke 11:13-52"
+            ],
+            "year_2_readings": [
+                "Ezek. 33:21-33",
+                "1 John 2:1-11",
+                "Matt. 9:35--10:4"
+            ],
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Isa. 65:1-12",
+                "2 Tim. 2:14-26",
+                "Luke 11:53--12:12"
+            ],
+            "year_2_readings": [
+                "Ezek. 34:1-16",
+                "1 John 2:12-17",
+                "Matt. 10:5-14"
+            ],
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Isa. 65:17-25",
+                "2 Tim. 3:1-17",
+                "Luke 12:13-31"
+            ],
+            "year_2_readings": [
+                "Ezek. 37:21b-28",
+                "1 John 2:18-29",
+                "Matt. 10:16-23"
+            ],
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Isa. 66:1-6",
+                "2 Tim. 4:1-8",
+                "Luke 12:32-48"
+            ],
+            "year_2_readings": [
+                "Ezek. 39:21-29",
+                "1 John 3:1-10",
+                "Matt. 10:24-33"
+            ],
+            "morning": {
+                "psalter": "140, 142"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Isa. 66:7-14",
+                "2 Tim. 4:9-22",
+                "Luke 12:49-59"
+            ],
+            "year_2_readings": [
+                "Ezek. 47:1-12",
+                "1 John 3:11-18",
+                "Matt. 10:34-42"
+            ],
+            "morning": {
+                "psalter": "137:1-6(7-9); 144"
+            },
+            "evening": {
+                "psalter": "104"
+            }
+        }
+    },
+    {
+        "number": 2,
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost",
+        "collect": "Almighty and merciful God, in your goodness keep us, we pray, from all things that may hurt us, that we, being ready both in mind and body, may accomplish with free hearts those things which belong to your purpose; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "MONDAY": {
+            "year_1_readings": [
+                "Ruth 1:1-18",
+                "1 Tim. 1:1-17",
+                "Luke 13:1-9"
+            ],
+            "year_2_readings": [
+                "Prov. 3:11-20",
+                "1 John 3:18--4:6",
+                "Matt. 11:1-6"
+            ],
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Ruth 1:19--2:13",
+                "1 Tim. 1:18--2:8",
+                "Luke 13:10-17"
+            ],
+            "year_2_readings": [
+                "Prov. 4:1-27",
+                "1 John 4:7-21",
+                "Matt. 11:7-15"
+            ],
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Ruth 2:14-23",
+                "1 Tim. 3:1-16",
+                "Luke 13:18-30"
+            ],
+            "year_2_readings": [
+                "Prov. 6:1-19",
+                "1 John 5:1-12",
+                "Matt. 11:16-24"
+            ],
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Ruth 3:1-18",
+                "1 Tim. 4:1-16",
+                "Luke 13:31-35"
+            ],
+            "year_2_readings": [
+                "Prov. 7:1-27",
+                "1 John 5:13-21",
+                "Matt. 11:25-30"
+            ],
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Ruth 4:1-17",
+                "1 Tim. 5:17-22(23-25)",
+                "Luke 14:1-11"
+            ],
+            "year_2_readings": [
+                "Prov. 8:1-21",
+                "2 John 1-13",
+                "Matt. 12:1-14"
+            ],
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Deut. 1:1-8",
+                "1 Tim. 6:6-21",
+                "Luke 14:12-24"
+            ],
+            "year_2_readings": [
+                "Prov. 8:22-36",
+                "3 John 1-15",
+                "Matt. 12:15-21"
+            ],
+            "morning": {
+                "psalter": "20, 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            }
+        }
+    },
+    {
+        "number": 3,
+        "collect": "Grant, O Lord, that the course of this world may be peaceably governed by your providence; and that your Church may joyfully serve you in confidence and serenity; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Prov. 9:1-12",
+                "Acts 8:14-25",
+                "Luke 10:25-28, 38-42"
+            ],
+            "year_1_readings": [
+                "Deut. 4:1-9",
+                "Rev. 7:1-4, 9-17",
+                "Matt. 12:33-45"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Prov. 10:1-12",
+                "1 Tim. 1:1-17",
+                "Matt. 12:22-32"
+            ],
+            "year_1_readings": [
+                "Deut. 4:9-14",
+                "2 Cor. 1:1-11",
+                "Luke 14:25-35"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Prov. 15:16-33",
+                "1 Tim. 1:18--2:8",
+                "Matt. 12:33-42"
+            ],
+            "year_1_readings": [
+                "Deut. 4:15-24",
+                "2 Cor. 1:12-22",
+                "Luke 15:1-10"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Prov. 17:1-20",
+                "1 Tim. 3:1-16",
+                "Matt. 12:43-50"
+            ],
+            "year_1_readings": [
+                "Deut. 4:25-31",
+                "2 Cor. 1:23--2:17",
+                "Luke 15:1-2, 11-32"
+            ],
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Prov. 21:30--22:6",
+                "1 Tim. 4:1-16",
+                "Matt. 13:24-30"
+            ],
+            "year_1_readings": [
+                "Deut. 4:32-40",
+                "2 Cor. 3:1-18",
+                "Luke 16:1-9"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Prov. 23:19-21, 29--24:2",
+                "1 Tim. 5:17-22(23-25)",
+                "Matt. 13:31-35"
+            ],
+            "year_1_readings": [
+                "Deut. 5:1-22",
+                "2 Cor. 4:1-12",
+                "Luke 16:10-17(18)"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Prov. 25:15-28",
+                "1 Tim. 6:6-21",
+                "Matt. 13:36-43"
+            ],
+            "year_1_readings": [
+                "Deut. 5:22-33",
+                "2 Cor. 4:13--5:10",
+                "Luke 16:19-31"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 4,
+        "collect": "O God, your never-failing providence sets in order all things both in heaven and earth: Put away from us, we entreat you, all hurtful things, and give us those things which are profitable for us; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Eccles. 1:1-11",
+                "Acts 8:26-40",
+                "Luke 11:1-13"
+            ],
+            "year_1_readings": [
+                "Deut. 11:1-12",
+                "Rev. 10:1-11",
+                "Matt. 13:44-58"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Eccles. 2:1-15",
+                "Gal. 1:1-17",
+                "Matt. 13:44-52"
+            ],
+            "year_1_readings": [
+                "Deut. 11:13-19",
+                "2 Cor. 5:11--6:2",
+                "Luke 17:1-10"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Eccles. 2:16-26",
+                "Gal. 1:18--2:10",
+                "Matt. 13:53-58"
+            ],
+            "year_1_readings": [
+                "Deut. 12:1-12",
+                "2 Cor. 6:3-13 (14--7:1)",
+                "Luke 17:11-19"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47,48"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Eccles. 3:1-15",
+                "Gal. 2:11-21",
+                "Matt. 14:1-12"
+            ],
+            "year_1_readings": [
+                "Deut. 13:1-11",
+                "2 Cor. 7:2-16",
+                "Luke 17:20-37"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Eccles. 3:16--4:3",
+                "Gal. 3:1-14",
+                "Matt. 14:13-21"
+            ],
+            "year_1_readings": [
+                "Deut. 16:18-20; 17:14-20",
+                "2 Cor. 8:1-16",
+                "Luke 18:1-8"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 8, 84"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Eccles. 5:1-7",
+                "Gal. 3:15-22",
+                "Matt. 14:22-36"
+            ],
+            "year_1_readings": [
+                "Deut. 26:1-11",
+                "2 Cor. 8:16-24",
+                "Luke 18:9-14"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Eccles. 5:8-20",
+                "Gal. 3:23--4:11",
+                "Matt. 15:1-20"
+            ],
+            "year_1_readings": [
+                "Deut. 29:2-15",
+                "2 Cor. 9:1-15",
+                "Luke 18:15-30"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 5,
+        "collect": "O God, from whom all good proceeds: Grant that by your inspiration we may think those things that are right, and by your merciful guiding may do them; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Eccles. 6:1-12",
+                "Acts 10:9-23",
+                "Luke 12:32-40"
+            ],
+            "year_1_readings": [
+                "Deut. 29:16-29",
+                "Rev. 12:1-12",
+                "Matt. 15:29-39"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Eccles. 7:1-14",
+                "Gal. 4:12-20",
+                "Matt. 15:21-28"
+            ],
+            "year_1_readings": [
+                "Deut. 30:1-10",
+                "2 Cor. 10:1-18",
+                "Luke 18:31-43"
+            ],
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Eccles. 8:14--9:10",
+                "Gal. 4:21-31",
+                "Matt. 15:29-39"
+            ],
+            "year_1_readings": [
+                "Deut. 30:11-20",
+                "2 Cor. 11:1-21a",
+                "Luke 19:1-10"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Eccles. 9:11-18",
+                "Gal. 5:1-15",
+                "Matt. 16:1-12"
+            ],
+            "year_1_readings": [
+                "Deut. 31:30--32:14",
+                "2 Cor. 11:21b-33",
+                "Luke 19:11-27"
+            ],
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Ecclus. 44:19--45:5",
+                "2 Cor. 12:1-10",
+                "Luke 19:28-40"
+            ],
+            "year_1_readings": [
+                "Ecclus. 44:19--45:5",
+                "2 Cor. 12:1-10",
+                "Luke 19:28-40"
+            ],
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Eccles. 11:9--12:14",
+                "Gal. 5:25--6:10",
+                "Matt. 16:21-28"
+            ],
+            "year_1_readings": [
+                "Ecclus. 45:6-16",
+                "2 Cor. 12:11-21",
+                "Luke 19:41-48"
+            ],
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Num. 3:1-13",
+                "Gal. 6:11-18",
+                "Matt. 17:1-13"
+            ],
+            "year_1_readings": [
+                "Ecclus. 46:1-10",
+                "2 Cor. 13:1-14",
+                "Luke 20:1-8"
+            ],
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 6,
+        "collect": "Keep, O Lord, your household the Church in your steadfast faith and love, that through your grace we may proclaim your truth with boldness, and minister your justice with compassion; for the sake of our Savior Jesus Christ, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Num. 6:22-27",
+                "Acts 13:1-12",
+                "Luke 12:41-48"
+            ],
+            "year_1_readings": [
+                "Ecclus. 46:11-20",
+                "Rev. 15:1-8",
+                "Matt. 18:1-14"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Num. 9:15-23; 10:29-36",
+                "Rom. 1:1-15",
+                "Matt. 17:14-21"
+            ],
+            "year_1_readings": [
+                "1 Samuel 1:1-20",
+                "Acts 1:1-14",
+                "Luke 20:9-19"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Num. 11:1-23",
+                "Rom. 1:16-25",
+                "Matt. 17:22-27"
+            ],
+            "year_1_readings": [
+                "1 Samuel 1:21--2:11",
+                "Acts 1:15-26",
+                "Luke 20:19-26"
+            ],
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Num. 11:24-33(34-35)",
+                "Rom. 1:28--2:11",
+                "Matt. 18:1-9"
+            ],
+            "year_1_readings": [
+                "1 Samuel 2:12-26",
+                "Acts 2:1-21",
+                "Luke 20:27-40"
+            ],
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "psalter": "81, 82"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Num. 12:1-16",
+                "Rom. 2:12-24",
+                "Matt. 18:10-20"
+            ],
+            "year_1_readings": [
+                "1 Samuel 2:27-36",
+                "Acts 2:22-36",
+                "Luke 20:41--21:4"
+            ],
+            "morning": {
+                "psalter": "[83] or 34"
+            },
+            "evening": {
+                "psalter": "85, 86"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Num. 13:1-3, 21-30",
+                "Rom. 2:25--3:8",
+                "Matt. 18:21-35"
+            ],
+            "year_1_readings": [
+                "1 Samuel 3:1-21",
+                "Acts 2:37-47",
+                "Luke 21:5-19"
+            ],
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Num. 13:31--14:25",
+                "Rom. 3:9-20",
+                "Matt. 19:1-12"
+            ],
+            "year_1_readings": [
+                "1 Samuel 4:1b-11",
+                "Acts 4:32--5:11",
+                "Luke 21:20-28"
+            ],
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 7,
+        "collect": "O Lord, make us have perpetual love and reverence for your holy Name, for you never fail to help and govern those whom you have set upon the sure foundation of your loving-kindness; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Num. 14:26-45",
+                "Acts 15:1-12",
+                "Luke 12:49-56"
+            ],
+            "year_1_readings": [
+                "1 Samuel 4:12-22",
+                "James 1:1-18",
+                "Matt. 19:23-30"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19, 46"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Num. 16:1-19",
+                "Rom. 3:21-31",
+                "Matt. 19:13-22"
+            ],
+            "year_1_readings": [
+                "1 Samuel 5:1-12",
+                "Acts 5:12-26",
+                "Luke 21:29-36"
+            ],
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Num. 16:20-35",
+                "Rom. 4:1-12",
+                "Matt. 19:23-30"
+            ],
+            "year_1_readings": [
+                "1 Samuel 6:1-16",
+                "Acts 5:27-42",
+                "Luke 21:37--22:13"
+            ],
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Num. 16:36-50",
+                "Rom. 4:13-25",
+                "Matt. 20:1-16"
+            ],
+            "year_1_readings": [
+                "1 Samuel 7:2-17",
+                "Acts 6:1-15",
+                "Luke 22:14-23"
+            ],
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Num. 17:1-11",
+                "Rom. 5:1-11",
+                "Matt. 20:17-28"
+            ],
+            "year_1_readings": [
+                "1 Samuel 8:1-22",
+                "Acts 6:15--7:16",
+                "Luke 22:24-30"
+            ],
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Num. 20:1-13",
+                "Rom. 5:12-21",
+                "Matt. 20:29-34"
+            ],
+            "year_1_readings": [
+                "1 Samuel 9:1-14",
+                "Acts 7:17-29",
+                "Luke 22:31-38"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Num. 20:14-29",
+                "Rom. 6:1-11",
+                "Matt. 21:1-11"
+            ],
+            "year_1_readings": [
+                "1 Samuel 9:15--10:1",
+                "Acts 7:30-43",
+                "Luke 22:39-51"
+            ],
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "psalter": "33"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 8,
+        "collect": "Almighty God, you have built your Church upon the foundation of the apostles and prophets, Jesus Christ himself being the chief cornerstone: Grant us so to be joined together in unity of spirit by their teaching, that we may be made a holy temple acceptable to you; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Num. 21:4-9, 21-35",
+                "Acts 17:(12-21)22-34",
+                "Luke 13:10-17"
+            ],
+            "year_1_readings": [
+                "1 Samuel 10:1-16",
+                "Rom. 4:13-25",
+                "Matt. 21:23-32"
+            ],
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Num. 22:1-21",
+                "Rom. 6:12-23",
+                "Matt. 21:12-22"
+            ],
+            "year_1_readings": [
+                "1 Samuel 10:17-27",
+                "Acts 7:44--8:1a",
+                "Luke 22:52-62"
+            ],
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Num. 22:21-38",
+                "Rom. 7:1-12",
+                "Matt. 21:23-32"
+            ],
+            "year_1_readings": [
+                "1 Samuel 11:1-15",
+                "Acts 8:1-13",
+                "Luke 22:63-71"
+            ],
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Num. 22:41--23:12",
+                "Rom. 7:13-25",
+                "Matt. 21:33-46"
+            ],
+            "year_1_readings": [
+                "1 Samuel 12:1-6, 16-25",
+                "Acts 8:14-25",
+                "Luke 23:1-12"
+            ],
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Num. 23:11-26",
+                "Rom. 8:1-11",
+                "Matt. 22:1-14"
+            ],
+            "year_1_readings": [
+                "1 Samuel 13:5-18",
+                "Acts 8:26-40",
+                "Luke 23:13-25"
+            ],
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Num. 24:1-13",
+                "Rom. 8:12-17",
+                "Matt. 22:15-22"
+            ],
+            "year_1_readings": [
+                "1 Samuel 13:19--14:15",
+                "Acts 9:1-9",
+                "Luke 23:26-31"
+            ],
+            "morning": {
+                "psalter": "140, 142"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Num. 24:12-25",
+                "Rom. 8:18-25",
+                "Matt. 22:23-40"
+            ],
+            "year_1_readings": [
+                "1 Samuel 14:16-30",
+                "Acts 9:10-19a",
+                "Luke 23:32-43"
+            ],
+            "morning": {
+                "psalter": "137:1-6(7-9), 144"
+            },
+            "evening": {
+                "psalter": "104"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 9,
+        "collect": "O God, you have taught us to keep all your commandments by loving you and our neighbor: Grant us the grace of your Holy Spirit, that we may be devoted to you with our whole heart, and united to one another with pure affection; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Num. 27:12-23",
+                "Acts 19:11-20",
+                "Mark 1:14-20"
+            ],
+            "year_1_readings": [
+                "1 Samuel 14:36-45",
+                "Rom. 5:1-11",
+                "Matt. 22:1-14"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Num. 32:1-6, 16-27",
+                "Rom. 8:26-30",
+                "Matt. 23:1-12"
+            ],
+            "year_1_readings": [
+                "1 Samuel 15:1-3, 7-23",
+                "Acts 9:19b-31",
+                "Luke 23:44-56a"
+            ],
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Num. 35:1-3, 9-15, 30-34",
+                "Rom. 8:31-39",
+                "Matt. 23:13-26"
+            ],
+            "year_1_readings": [
+                "1 Samuel 15:24-35",
+                "Acts 9:32-43",
+                "Luke 23:56b--24:11"
+            ],
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Deut. 1:1-18",
+                "Rom. 9:1-18",
+                "Matt. 23:27-39"
+            ],
+            "year_1_readings": [
+                "1 Samuel 16:1-13",
+                "Acts 10:1-16",
+                "Luke 24:13-35"
+            ],
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Deut. 3:18-28",
+                "Rom. 9:19-33",
+                "Matt. 24:1-14"
+            ],
+            "year_1_readings": [
+                "1 Samuel 16:14--17:11",
+                "Acts 10:17-33",
+                "Luke 24:36-53"
+            ],
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Deut. 31:7-13, 24--32:4",
+                "Rom. 10:1-13",
+                "Matt. 24:15-31"
+            ],
+            "year_1_readings": [
+                "1 Samuel 17:17-30",
+                "Acts 10:34-48",
+                "Mark 1:1-13"
+            ],
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Deut. 34:1-12",
+                "Rom. 10:14-21",
+                "Matt. 24:32-51"
+            ],
+            "year_1_readings": [
+                "1 Samuel 17:31-49",
+                "Acts 11:1-18",
+                "Mark 1:14-28"
+            ],
+            "morning": {
+                "psalter": "20, 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 10,
+        "collect": "O Lord, mercifully receive the prayers of your people who call upon you, and grant that they may know and understand what things they ought to do, and also may have grace and power faithfully to accomplish them; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Joshua 1:1-18",
+                "Acts 21:3-15",
+                "Mark 1:21-27"
+            ],
+            "year_1_readings": [
+                "1 Samuel 17:50--18:4",
+                "Rom. 10:4-17",
+                "Matt. 23:29-39"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Joshua 2:1-14",
+                "Rom. 11:1-12",
+                "Matt. 25:1-13"
+            ],
+            "year_1_readings": [
+                "1 Samuel 18:5-16, 27b-30",
+                "Acts 11:19-30",
+                "Mark 1:29-45"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Joshua 2:15-24",
+                "Rom. 11:13-24",
+                "Matt. 25:14-30"
+            ],
+            "year_1_readings": [
+                "1 Samuel 19:1-18",
+                "Acts 12:1-17",
+                "Mark 2:1-12"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Joshua 3:1-13",
+                "Rom. 11:25-36",
+                "Matt. 25:31-46"
+            ],
+            "year_1_readings": [
+                "1 Samuel 20:1-23",
+                "Acts 12:18-25",
+                "Mark 2:13-22"
+            ],
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Joshua 3:14--4:7",
+                "Rom. 12:1-8",
+                "Matt. 26:1-16"
+            ],
+            "year_1_readings": [
+                "1 Samuel 20:24-42",
+                "Acts 13:1-12",
+                "Mark 2:23--3:6"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Joshua 4:19--5:1, 10-15",
+                "Rom. 12:9-21",
+                "Matt. 26:17-25"
+            ],
+            "year_1_readings": [
+                "1 Samuel 21:1-15",
+                "Acts 13:13-25",
+                "Mark 3:7-19a"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Joshua 6:1-14",
+                "Rom. 13:1-7",
+                "Matt. 26:26-35"
+            ],
+            "year_1_readings": [
+                "1 Samuel 22:1-23",
+                "Acts 13:26-43",
+                "Mark 3:19b-35"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 11,
+        "collect": "Almighty God, the fountain of all wisdom, you know our necessities before we ask and our ignorance in asking: Have compassion on our weakness, and mercifully give us those things which for our unworthiness we dare not, and for our blindness we cannot ask; through the worthiness of your Son Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Joshua 6:15-27",
+                "Acts 22:30--23:11",
+                "Mark 2:1-12"
+            ],
+            "year_1_readings": [
+                "1 Samuel 23:7-18",
+                "Rom. 11:33--12:2",
+                "Matt. 25:14-30"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Joshua 7:1-13",
+                "Rom. 13:8-14",
+                "Matt. 26:36-46"
+            ],
+            "year_1_readings": [
+                "1 Samuel 24:1-22",
+                "Acts 13:44-52",
+                "Mark 4:1-20"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Joshua 8:1-22",
+                "Rom. 14:1-12",
+                "Matt. 26:47-56"
+            ],
+            "year_1_readings": [
+                "1 Samuel 25:1-22",
+                "Acts 14:1-18",
+                "Mark 4:21-34"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Joshua 8:30-35",
+                "Rom. 14:13-23",
+                "Matt. 26:57-68"
+            ],
+            "year_1_readings": [
+                "1 Samuel 25:23-44",
+                "Acts 14:19-28",
+                "Mark 4:35-41"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Joshua 9:3-21",
+                "Rom. 15:1-13",
+                "Matt. 26:69-75"
+            ],
+            "year_1_readings": [
+                "1 Samuel 28:3-20",
+                "Acts 15:1-11",
+                "Mark 5:1-20"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 66, 67"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Joshua 9:22--10:15",
+                "Rom. 15:14-24",
+                "Matt. 27:1-10"
+            ],
+            "year_1_readings": [
+                "1 Samuel 31:1-13",
+                "Acts 15:12-21",
+                "Mark 5:21-43"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Joshua 23:1-16",
+                "Rom. 15:25-33",
+                "Matt. 27:11-23"
+            ],
+            "year_1_readings": [
+                "2 Samuel 1:1-16",
+                "Acts 15:22-35",
+                "Mark 6:1-13"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 12,
+        "collect": "O God, the protector of all who trust in you, without whom nothing is strong, nothing is holy: Increase and multiply upon us your mercy; that, with you as our ruler and guide, we may so pass through things temporal, that we lose not the things eternal; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Joshua 24:1-15",
+                "Acts 28:23-31",
+                "Mark 2:23-28"
+            ],
+            "year_1_readings": [
+                "2 Samuel 1:17-27",
+                "Rom. 12:9-21",
+                "Matt. 25:31-46"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Joshua 24:16-33",
+                "Rom. 16:1-16",
+                "Matt. 27:24-31"
+            ],
+            "year_1_readings": [
+                "2 Samuel 2:1-11",
+                "Acts 15:36--16:5",
+                "Mark 6:14-29"
+            ],
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Judges 2:1-5, 11-23",
+                "Rom. 16:17-27",
+                "Matt. 27:32-44"
+            ],
+            "year_1_readings": [
+                "2 Samuel 3:6-21",
+                "Acts 16:6-15",
+                "Mark 6:30-46"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Judges 3:12-30",
+                "Acts 1:1-14",
+                "Matt. 27:45-54"
+            ],
+            "year_1_readings": [
+                "2 Samuel 3:22-39",
+                "Acts 16:16-24",
+                "Mark 6:47-56"
+            ],
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Judges 4:4-23",
+                "Acts 1:15-26",
+                "Matt. 27:55-66"
+            ],
+            "year_1_readings": [
+                "2 Samuel 4:1-12",
+                "Acts 16:25-40",
+                "Mark 7:1-23"
+            ],
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Judges 5:1-18",
+                "Acts 2:1-21",
+                "Matt. 28:1-10"
+            ],
+            "year_1_readings": [
+                "2 Samuel 5:1-12",
+                "Acts 17:1-15",
+                "Mark 7:24-37"
+            ],
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Judges 5:19-31",
+                "Acts 2:22-36",
+                "Matt. 28:11-20"
+            ],
+            "year_1_readings": [
+                "2 Samuel 5:22--6:11",
+                "Acts 17:16-34",
+                "Mark 8:1-10"
+            ],
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 13,
+        "collect": "Let your continual mercy, O Lord, cleanse and defend your Church; and, because it cannot continue in safety without your help, protect and govern it always by your goodness; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Judges 6:1-24",
+                "2 Cor. 9:6-15",
+                "Mark 3:20-30"
+            ],
+            "year_1_readings": [
+                "2 Samuel 6:12-23",
+                "Rom. 14:7-12",
+                "John 1:43-51"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Judges 6:25-40",
+                "Acts 2:37-47",
+                "John 1:1-18"
+            ],
+            "year_1_readings": [
+                "2 Samuel 7:1-17",
+                "Acts 18:1-11",
+                "Mark 8:11-21"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Judges 7:1-18",
+                "Acts 3:1-11",
+                "John 1:19-28"
+            ],
+            "year_1_readings": [
+                "2 Samuel 7:18-29",
+                "Acts 18:12-28",
+                "Mark 8:22-33"
+            ],
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Judges 7:19--8:12",
+                "Acts 3:12-26",
+                "John 1:29-42"
+            ],
+            "year_1_readings": [
+                "2 Samuel 9:1-13",
+                "Acts 19:1-10",
+                "Mark 8:34--9:1"
+            ],
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "psalter": "81, 82"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Judges 8:22-35",
+                "Acts 4:1-12",
+                "John 1:43-51"
+            ],
+            "year_1_readings": [
+                "2 Samuel 11:1-27",
+                "Acts 19:11-20",
+                "Mark 9:2-13"
+            ],
+            "morning": {
+                "psalter": "[83] or 145"
+            },
+            "evening": {
+                "psalter": "85, 86"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Judges 9:1-16, 19-21",
+                "Acts 4:13-31",
+                "John 2:1-12"
+            ],
+            "year_1_readings": [
+                "2 Samuel 12:1-14",
+                "Acts 19:21-41",
+                "Mark 9:14-29"
+            ],
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Judges 9:22-25, 50-57",
+                "Acts 4:32--5:11",
+                "John 2:13-25"
+            ],
+            "year_1_readings": [
+                "2 Samuel 12:15-31",
+                "Acts 20:1-16",
+                "Mark 9:30-41"
+            ],
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 14,
+        "collect": "Grant to us, Lord, we pray, the spirit to think and do always those things that are right, that we, who cannot exist without you, may by you be enabled to live according to your will; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Judges 11:1-11, 29-40",
+                "2 Cor. 11:21b-31",
+                "Mark 4:35-41"
+            ],
+            "year_1_readings": [
+                "2 Samuel 13:1-22",
+                "Rom. 15:1-13",
+                "John 3:22-36"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19,46"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Judges 12:1-7",
+                "Acts 5:12-26",
+                "John 3:1-21"
+            ],
+            "year_1_readings": [
+                "2 Samuel 13:23-39",
+                "Acts 20:17-38",
+                "Mark 9:42-50"
+            ],
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Judges 13:1-15",
+                "Acts 5:27-42",
+                "John 3:22-36"
+            ],
+            "year_1_readings": [
+                "2 Samuel 14:1-20",
+                "Acts 21:1-14",
+                "Mark 10:1-16"
+            ],
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Judges 13:15-24",
+                "Acts 6:1-15",
+                "John 4:1-26"
+            ],
+            "year_1_readings": [
+                "2 Samuel 14:21-33",
+                "Acts 21:15-26",
+                "Mark 10:17-31"
+            ],
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Judges 14:1-19",
+                "Acts 6:15--7:16",
+                "John 4:27-42"
+            ],
+            "year_1_readings": [
+                "2 Samuel 15:1-18",
+                "Acts 21:27-36",
+                "Mark 10:32-45"
+            ],
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Judges 14:20--15:20",
+                "Acts 7:17-29",
+                "John 4:43-54"
+            ],
+            "year_1_readings": [
+                "2 Samuel 15:19-37",
+                "Acts 21:37--22:16",
+                "Mark 10:46-52"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Judges 16:1-14",
+                "Acts 7:30-43",
+                "John 5:1-18"
+            ],
+            "year_1_readings": [
+                "2 Samuel 16:1-23",
+                "Acts 22:17-29",
+                "Mark 11:1-11"
+            ],
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "psalter": "33"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 15,
+        "collect": "Almighty God, you have given your only Son to be for us a sacrifice for sin, and also an example of godly life: Give us grace to receive thankfully the fruits of his redeeming work, and to follow daily in the blessed steps of his most holy life; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Judges 16:15-31",
+                "2 Cor. 13:1-11",
+                "Mark 5:25-34"
+            ],
+            "year_1_readings": [
+                "2 Samuel 17:1-23",
+                "Gal. 3:6-14",
+                "John 5:30-47"
+            ],
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Judges 17:1-13",
+                "Acts 7:44--8:1a",
+                "John 5:19-29"
+            ],
+            "year_1_readings": [
+                "2 Samuel 17:24--18:8",
+                "Acts 22:30--23:11",
+                "Mark 11:12-26"
+            ],
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Judges 18:1-15",
+                "Acts 8:1-13",
+                "John 5:30-47"
+            ],
+            "year_1_readings": [
+                "2 Samuel 18:9-18",
+                "Acts 23:12-24",
+                "Mark 11:27--12:12"
+            ],
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Judges 18:16-31",
+                "Acts 8:14-25",
+                "John 6:1-15"
+            ],
+            "year_1_readings": [
+                "2 Samuel 18:19-33",
+                "Acts 23:23-35",
+                "Mark 12:13-27"
+            ],
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Job 1:1-22",
+                "Acts 8:26-40",
+                "John 6:16-27"
+            ],
+            "year_1_readings": [
+                "2 Samuel 19:1-23",
+                "Acts 24:1-23",
+                "Mark 12:28-34"
+            ],
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Job 2:1-13",
+                "Acts 9:1-9",
+                "John 6:27-40"
+            ],
+            "year_1_readings": [
+                "2 Samuel 19:24-43",
+                "Acts 24:24--25:12",
+                "Mark 12:35-44"
+            ],
+            "morning": {
+                "psalter": "140, 142"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Job 3:1-26",
+                "Acts 9:10-19a",
+                "John 6:41-51"
+            ],
+            "year_1_readings": [
+                "2 Samuel 23:1-7, 13-17",
+                "Acts 25:13-27",
+                "Mark 13:1-13"
+            ],
+            "morning": {
+                "psalter": "137:1-6(7-9), 144"
+            },
+            "evening": {
+                "psalter": "104"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 16,
+        "collect": "Grant, O merciful God, that your Church, being gathered together in unity by your Holy Spirit, may show forth your power among all peoples, to the glory of your Name; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Job 4:1-6, 12-21",
+                "Rev. 4:1-11",
+                "Mark 6:1-6a"
+            ],
+            "year_1_readings": [
+                "2 Samuel 24:1-2, 10-25",
+                "Gal. 3:23--4:7",
+                "John 8:12-20"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Job 4:1; 5:1-11, 17-21, 26-27",
+                "Acts 9:19b-31",
+                "John 6:52-59"
+            ],
+            "year_1_readings": [
+                "1 Kings 1:5-31",
+                "Acts 26:1-23",
+                "Mark 13:14-27"
+            ],
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Job 6:1-4, 8-15, 21",
+                "Acts 9:32-43",
+                "John 6:60-71"
+            ],
+            "year_1_readings": [
+                "1 Kings 1:38--2:4",
+                "Acts 26:24--27:8",
+                "Mark 13:28-37"
+            ],
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Job 6:1; 7:1-21",
+                "Acts 10:1-16",
+                "John 7:1-13"
+            ],
+            "year_1_readings": [
+                "1 Kings 3:1-15",
+                "Acts 27:9-26",
+                "Mark 14:1-11"
+            ],
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Job 8:1-10, 20-22",
+                "Acts 10:17-33",
+                "John 7:14-36"
+            ],
+            "year_1_readings": [
+                "1 Kings 3:16-28",
+                "Acts 27:27-44",
+                "Mark 14:12-26"
+            ],
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Job 9:1-15, 32-35",
+                "Acts 10:34-48",
+                "John 7:37-52"
+            ],
+            "year_1_readings": [
+                "1 Kings 5:1--6:1, 7",
+                "Acts 28:1-16",
+                "Mark 14:27-42"
+            ],
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Job 9:1; 10:1-9, 16-22",
+                "Acts 11:1-18",
+                "John 8:12-20"
+            ],
+            "year_1_readings": [
+                "1 Kings 7:51--8:21",
+                "Acts 28:17-31",
+                "Mark 14:43-52"
+            ],
+            "morning": {
+                "psalter": "20 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 17,
+        "collect": "Lord of all power and might, the author and giver of all good things: Graft in our hearts the love of your Name; increase in us true religion; nourish us with all goodness; and bring forth in us the fruit of good works; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Job 11:1-9, 13-20",
+                "Rev. 5:1-14",
+                "Matt. 5:1-12"
+            ],
+            "year_1_readings": [
+                "1 Kings 8:22-30(31-40)",
+                "1 Tim. 4:7b-16",
+                "John 8:47-59"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Job 12:1-6, 13-25",
+                "Acts 11:19-30",
+                "John 8:21-32"
+            ],
+            "year_1_readings": [
+                "2 Chron. 6:32--7:7",
+                "James 2:1-13",
+                "Mark 14:53-65"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Job 12:1; 13:3-17, 21-27",
+                "Acts 12:1-17",
+                "John 8:33-47"
+            ],
+            "year_1_readings": [
+                "1 Kings 8:65--9:9",
+                "James 2:14-26",
+                "Mark 14:66-72"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Job 12:1; 14:1-22",
+                "Acts 12:18-25",
+                "John 8:47-59"
+            ],
+            "year_1_readings": [
+                "1 Kings 9:24--10:13",
+                "James 3:1-12",
+                "Mark 15:1-11"
+            ],
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Job 16:16-22; 17:1, 13-16",
+                "Acts 13:1-12",
+                "John 9:1-17"
+            ],
+            "year_1_readings": [
+                "1 Kings 11:1-13",
+                "James 3:13--4:12",
+                "Mark 15:12-21"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Job 19:1-7, 14-27",
+                "Acts 13:13-25",
+                "John 9:18-41"
+            ],
+            "year_1_readings": [
+                "1 Kings 11:26-43",
+                "James 4:13--5:6",
+                "Mark 15:22-32"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Job 22:1-4, 21--23:7",
+                "Acts 13:26-43",
+                "John 10:1-18"
+            ],
+            "year_1_readings": [
+                "1 Kings 12:1-20",
+                "James 5:7-12, 19-20",
+                "Mark 15:33-39"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 18,
+        "collect": "Grant us, O Lord, to trust in you with all our hearts; for, as you always resist the proud who confide in their own strength, so you never forsake those who make their boast of your mercy; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Job 25:1-6; 27:1-6",
+                "Rev. 14:1-7, 13",
+                "Matt. 5:13-20"
+            ],
+            "year_1_readings": [
+                "1 Kings 12:21-33",
+                "Acts 4:18-31",
+                "John 10:31-42"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Job 32:1-10, 19--33:1, 19-28",
+                "Acts 13:44-52",
+                "John 10:19-30"
+            ],
+            "year_1_readings": [
+                "1 Kings 13:1-10",
+                "Phil. 1:1-11",
+                "Mark 15:40-47"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Job 29:1-20",
+                "Acts 14:1-18",
+                "John 10:31-42"
+            ],
+            "year_1_readings": [
+                "1 Kings 16:23-34",
+                "Phil. 1:12-30",
+                "Mark 16:1-8(9-20)"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Job 29:1; 30:1-2, 16-31",
+                "Acts 14:19-28",
+                "John 11:1-16"
+            ],
+            "year_1_readings": [
+                "1 Kings 17:1-24",
+                "Phil. 2:1-11",
+                "Matt. 2:1-12"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Job 29:1; 31:1-23",
+                "Acts 15:1-11",
+                "John 11:17-29"
+            ],
+            "year_1_readings": [
+                "1 Kings 18:1-19",
+                "Phil. 2:12-30",
+                "Matt. 2:13-23"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 93, 96"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Job 29:1; 31:24-40",
+                "Acts 15:12-21",
+                "John 11:30-44"
+            ],
+            "year_1_readings": [
+                "1 Kings 18:20-40",
+                "Phil. 3:1-16",
+                "Matt. 3:1-12"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Job 38:1-17",
+                "Acts 15:22-35",
+                "John 11:45-54"
+            ],
+            "year_1_readings": [
+                "1 Kings 18:41--19:8",
+                "Phil. 3:17--4:7",
+                "Matt. 3:13-17"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 19,
+        "collect": "O God, because without you we are not able to please you, mercifully grant that your Holy Spirit may in all things direct and rule our hearts; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Job 38:1, 18-41",
+                "Rev. 18:1-8",
+                "Matt. 5:21-26"
+            ],
+            "year_1_readings": [
+                "1 Kings 19:8-21",
+                "Acts 5:34-42",
+                "John 11:45-57"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Job 40:1-24",
+                "Acts 15:36--16:5",
+                "John 11:55--12:8"
+            ],
+            "year_1_readings": [
+                "1 Kings 21:1-16",
+                "1 Cor. 1:1-19",
+                "Matt. 4:1-11"
+            ],
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Job 40:1; 41:1-11",
+                "Acts 16:6-15",
+                "John 12:9-19"
+            ],
+            "year_1_readings": [
+                "1 Kings 21:17-29",
+                "1 Cor. 1:20-31",
+                "Matt. 4:12-17"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Job 42:1-17",
+                "ACts 16:16-24",
+                "John 12:20-26"
+            ],
+            "year_1_readings": [
+                "1 Kings 22:1-28",
+                "1 Cor. 2:1-13",
+                "Matt. 4:18-25"
+            ],
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            },
+            "name": "Fall Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Job 28:1-28",
+                "Acts 16:25-40",
+                "John 12:27-36a"
+            ],
+            "year_1_readings": [
+                "1 Kings 22:29-45",
+                "1 Cor. 2:14--3:15",
+                "Matt. 5:1-10"
+            ],
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Judith 4:1-15",
+                "Acts 17:1-15",
+                "John 12:36b-43"
+            ],
+            "year_1_readings": [
+                "2 Kings 1:2-17",
+                "1 Cor. 3:16-23",
+                "Matt. 5:11-16"
+            ],
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            },
+            "name": "Fall Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Judith 5:1-21",
+                "Acts 17:16-34",
+                "John 12:44-50"
+            ],
+            "year_1_readings": [
+                "2 Kings 2:1-18",
+                "1 Cor. 4:1-7",
+                "Matt. 5:17-20"
+            ],
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            },
+            "name": "Fall Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 20,
+        "collect": "Grant us, Lord, not to be anxious about earthly things, but to love things heavenly; and even now, while we are placed among things that are passing away, to hold fast to those that shall endure; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Judith 5:22--6:4, 10-21",
+                "James 1:19-27",
+                "Matt. 6:1-6, 16-18"
+            ],
+            "year_1_readings": [
+                "2 Kings 4:8-37",
+                "Acts 9:10-31",
+                "Luke 3:7-18"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Judith 7:1-7,19-32",
+                "Acts 18:1-11",
+                "Luke (1:1-4); 3:1-14"
+            ],
+            "year_1_readings": [
+                "2 Kings 5:1-19",
+                "1 Cor. 4:8-21",
+                "Matt. 5:21-26"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Judith 8:9-17; 9:1,7-10",
+                "Acts 18:12-28",
+                "Luke 3:15-22"
+            ],
+            "year_1_readings": [
+                "2 Kings 5:19-27",
+                "1 Cor. 5:1-8",
+                "Matt. 5:27-37"
+            ],
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Judith 10:1-23",
+                "Acts 19:1-10",
+                "Luke 4:1-13"
+            ],
+            "year_1_readings": [
+                "2 Kings 6:1-23",
+                "1 Cor. 5:9--6:8",
+                "Matt. 5:38-48"
+            ],
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "psalter": "81, 82"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Judith 12:1-20",
+                "Acts 19:11-20",
+                "Luke 4:14-30"
+            ],
+            "year_1_readings": [
+                "2 Kings 9:1-16",
+                "1 Cor. 6:12-20",
+                "Matt. 6:1-6, 16-18"
+            ],
+            "morning": {
+                "psalter": "[83] or 116, 117"
+            },
+            "evening": {
+                "psalter": "85, 86"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Judith 13:1-20",
+                "Acts 19:21-41",
+                "Luke 4:31-37"
+            ],
+            "year_1_readings": [
+                "2 Kings 9:17-37",
+                "1 Cor. 7:1-9",
+                "Matt. 6:7-15"
+            ],
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Hosea 1:1--2:1",
+                "Acts 20:1-16",
+                "Luke 4:38-44"
+            ],
+            "year_1_readings": [
+                "2 Kings 11:1-20a",
+                "1 Cor. 7:10-24",
+                "Matt. 6:19-24"
+            ],
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 21,
+        "collect": "O God, you declare your almighty power chiefly in showing mercy and pity: Grant us the fullness of your grace, that we, running to obtain your promises, may become partakers of your heavenly treasure; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Hosea 2:2-14",
+                "James 3:1-13",
+                "Matt. 13:44-52"
+            ],
+            "year_1_readings": [
+                "2 Kings 17:1-18",
+                "Acts 9:36-43",
+                "Luke 5:1-11"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19, 46"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Hosea 2:14-23",
+                "Acts 20:17-38",
+                "Luke 5:1-11"
+            ],
+            "year_1_readings": [
+                "2 Kings 17:24-41",
+                "1 Cor. 7:25-31",
+                "Matt. 6:25-34"
+            ],
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Hosea 4:1-10",
+                "Acts 21:1-14",
+                "Luke 5:12-26"
+            ],
+            "year_1_readings": [
+                "2 Chron. 29:1-3; 30:1(2-9) 10-27",
+                "1 Cor. 7:32-40",
+                "Matt. 7:1-12"
+            ],
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Hosea 4:11-19",
+                "Acts 21:15-26",
+                "Luke 5:27-39"
+            ],
+            "year_1_readings": [
+                "2 Kings 18:9-25",
+                "1 Cor. 8:1-13",
+                "Matt. 7:13-21"
+            ],
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Hosea 5:8--6:6",
+                "Acts 21:27-36",
+                "Luke 6:1-11"
+            ],
+            "year_1_readings": [
+                "2 Kings 18:28-37",
+                "1 Cor. 9:1-15",
+                "Matt. 7:22-29"
+            ],
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Hosea 10:1-15",
+                "Acts 21:37--22:16",
+                "Luke 6:12-26"
+            ],
+            "year_1_readings": [
+                "2 Kings 19:1-20",
+                "1 Cor. 9:16-27",
+                "Matt. 8:1-17"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Hosea 11:1-9",
+                "Acts 22:17-29",
+                "Luke 6:27-38"
+            ],
+            "year_1_readings": [
+                "2 Kings 19:21-36",
+                "1 Cor. 10:1-13",
+                "Matt. 8:18-27"
+            ],
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "psalter": "33"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 22,
+        "collect": "Almighty and everlasting God, you are always more ready to hear than we to pray, and to give more than we either desire or deserve: Pour upon us the abundance of your mercy, forgiving us those things of which our conscience is afraid, and giving us those good things for which we are not worthy to ask, except through the merits and mediation of Jesus Christ our Savior; who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Hosea 13:4-14",
+                "1 Cor. 2:6-16",
+                "Matt. 14:1-12"
+            ],
+            "year_1_readings": [
+                "2 Kings 20:1-21",
+                "Acts 12:1-17",
+                "Luke 7:11-17"
+            ],
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Hosea 14:1-9",
+                "Acts 22:30--23:11",
+                "Luke 6:39-49"
+            ],
+            "year_1_readings": [
+                "2 Kings 21:1-18",
+                "1 Cor. 10:14--11:1",
+                "Matt. 8:28-34"
+            ],
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Micah 1:1-9",
+                "Acts 23:12-24",
+                "Luke 7:1-17"
+            ],
+            "year_1_readings": [
+                "2 Kings 22:1-13",
+                "1 Cor. 11:2, 17-22",
+                "Matt. 9:1-8"
+            ],
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Micah 2:1-13",
+                "Acts 23:23-35",
+                "Luke 7:18-35"
+            ],
+            "year_1_readings": [
+                "2 Kings 22:14--23:3",
+                "1 Cor 11:23-34",
+                "Matt. 9:9-17"
+            ],
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Micah 3:1-8",
+                "Acts 24:1-23",
+                "Luke 7:36-50"
+            ],
+            "year_1_readings": [
+                "2 Kings 23:4-25",
+                "1 Cor. 12:1-11",
+                "Matt. 9:18-26"
+            ],
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Micah 3:9--4:5",
+                "Acts 24:24--25:12",
+                "Luke 8:1-15"
+            ],
+            "year_1_readings": [
+                "2 Kings 23:36--24:17",
+                "1 Cor. 12:12-26",
+                "Matt. 9:27-34"
+            ],
+            "morning": {
+                "psalter": "140, 142"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Micah 5:1-4, 10-15",
+                "Acts 25:13-27",
+                "Luke 8:16-25"
+            ],
+            "year_1_readings": [
+                "Jer. 35:1-19",
+                "1 Cor. 12:27--13:3",
+                "Matt. 9:35--10:4"
+            ],
+            "morning": {
+                "psalter": "137:1-6(7-9), 144"
+            },
+            "evening": {
+                "psalter": "104"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 23,
+        "collect": "Lord, we pray that your grace may always precede and follow us, that we may continually be given to good works; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Micah 6:1-8",
+                "1 Cor. 4:9-16",
+                "Matt. 15:21-28"
+            ],
+            "year_1_readings": [
+                "Jer. 36:1-10",
+                "Acts 14:8-18",
+                "Luke 7:36-50"
+            ],
+            "morning": {
+                "psalter": "146, 147"
+            },
+            "evening": {
+                "psalter": "111, 112, 113"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Micah 7:1-7",
+                "Acts 26:1-23",
+                "Luke 8:26-39"
+            ],
+            "year_1_readings": [
+                "Jer. 36:11-26",
+                "1 Cor. 13:(1-3)4-13",
+                "Matt. 10:5-15"
+            ],
+            "morning": {
+                "psalter": "1, 2, 3"
+            },
+            "evening": {
+                "psalter": "4, 7"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Jonah 1:1-17a",
+                "Acts 26:24--27:8",
+                "Luke 8:40-56"
+            ],
+            "year_1_readings": [
+                "Jer. 36:27--37:2",
+                "1 Cor. 14:1-12",
+                "Matt. 10:16-23"
+            ],
+            "morning": {
+                "psalter": "5, 6"
+            },
+            "evening": {
+                "psalter": "10, 11"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Jonah 1:17--2:10",
+                "Acts 27:9-26",
+                "Luke 9:1-17"
+            ],
+            "year_1_readings": [
+                "Jer. 37:3-21",
+                "1 Cor. 14:13-25",
+                "Matt. 10:24-33"
+            ],
+            "morning": {
+                "psalter": "119:1-24"
+            },
+            "evening": {
+                "psalter": "12, 13, 14"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Jonah 3:1--4:11",
+                "Acts 27:27-44",
+                "Luke 9:18-27"
+            ],
+            "year_1_readings": [
+                "Jer. 38:1-13",
+                "1 Cor. 14:26-33a, 37-40",
+                "Matt. 10:34-42"
+            ],
+            "morning": {
+                "psalter": "18:1-20"
+            },
+            "evening": {
+                "psalter": "18:21-50"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Ecclus. 1:1-10, 18-27",
+                "Acts 28:1-16",
+                "Luke 9:28-36"
+            ],
+            "year_1_readings": [
+                "Jer. 38:14-28",
+                "1 Cor. 15:1-11",
+                "Matt. 11:1-6"
+            ],
+            "morning": {
+                "psalter": "16, 17"
+            },
+            "evening": {
+                "psalter": "22"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Ecclus. 3:17-31",
+                "Acts 28:17-31",
+                "Luke 9:37-50"
+            ],
+            "year_1_readings": [
+                "2 Kings 25:8-12, 22-26",
+                "1 Cor. 15:12-29",
+                "Matt. 11:7-15"
+            ],
+            "morning": {
+                "psalter": "20, 21:1-7(8-14)"
+            },
+            "evening": {
+                "psalter": "110:1-5(6-7), 116, 117"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 24,
+        "collect": "Almighty and everlasting God, in Christ you have revealed your glory among the nations: Preserve the works of your mercy, that your Church throughout the world may persevere with steadfast faith in the confession of your Name; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Ecclus. 4:1-10",
+                "1 Cor. 10:1-13",
+                "Matt. 16:13-20"
+            ],
+            "year_1_readings": [
+                "Jer. 29:1, 4-14",
+                "Acts 16:6-15",
+                "Luke 10:1-12, 17-20"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Ecclus. 4:20--5:7",
+                "Rev. 7:1-8",
+                "Luke 9:51-62"
+            ],
+            "year_1_readings": [
+                "Jer. 44:1-14",
+                "1 Cor. 15:30-41",
+                "Matt. 11:16-24"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Ecclus. 6:5-17",
+                "Rev. 7:9-17",
+                "Luke 10:1-16"
+            ],
+            "year_1_readings": [
+                "Lam. 1:1-5(6-9)10-12",
+                "1 Cor. 15:41-50",
+                "Matt. 11:25-30"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Ecclus. 7:4-14",
+                "Rev. 8:1-13",
+                "Luke 10:17-24"
+            ],
+            "year_1_readings": [
+                "Lam. 2:8-15",
+                "1 Cor. 15:51-58",
+                "Matt. 12:1-14"
+            ],
+            "morning": {
+                "psalter": "38"
+            },
+            "evening": {
+                "psalter": "119:25-48"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Ecclus. 10:1-18",
+                "Rev. 9:1-12",
+                "Luke 10:25-37"
+            ],
+            "year_1_readings": [
+                "Ezra 1:1-11",
+                "1 Cor. 16:1-9",
+                "Matt. 12:15-21"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Ecclus. 11:2-20",
+                "Rev. 9:13-21",
+                "Luke 10:38-42"
+            ],
+            "year_1_readings": [
+                "Ezra 3:1-13",
+                "1 Cor. 16:10-24",
+                "Matt. 12:22-32"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Ecclus. 15:9-20",
+                "Rev. 10:1-11",
+                "Luke 11:1-13"
+            ],
+            "year_1_readings": [
+                "Ezra 4:7, 11-24",
+                "Philemon 1-24",
+                "Matt. 12:33-42"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 25,
+        "collect": "Almighty and everlasting God, increase in us the gifts of faith, hope, and charity; and, that we may obtain what you promise, make us love what you command; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Ecclus. 18:19-33",
+                "1 Cor. 10:15-24",
+                "Matt. 18:15-20"
+            ],
+            "year_1_readings": [
+                "Haggai 1:1--2:9",
+                "Acts 18:24--19:7",
+                "Luke 10:25-37"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Ecclus. 19:4-17",
+                "Rev. 11:1-14",
+                "Luke 11:14-26"
+            ],
+            "year_1_readings": [
+                "Zech. 1:7-17",
+                "Rev. 1:4-20",
+                "Matt. 12:43-50"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Ecclus. 24:1-12",
+                "Rev. 11:14-19",
+                "Luke 11:27-36"
+            ],
+            "year_1_readings": [
+                "Ezra 5:1-17",
+                "Rev. 4:1-11",
+                "Matt. 13:1-9"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Ecclus. 28:14-26",
+                "Rev. 12:1-6",
+                "Luke 11:37-52"
+            ],
+            "year_1_readings": [
+                "Ezra 6:1-22",
+                "Rev. 5:1-10",
+                "Matt. 13:10-17"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Ecclus. 31:12-18, 25--32:2",
+                "Rev. 12:7-17",
+                "Luke 11:53--12:12"
+            ],
+            "year_1_readings": [
+                "Neh. 1:1-11",
+                "Rev. 5:11--6:11",
+                "Matt. 13:18-23"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 103"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Ecclus. 34:1-8, 18-22",
+                "Rev. 13:1-10",
+                "Luke 12:13-31"
+            ],
+            "year_1_readings": [
+                "Neh. 2:1-20",
+                "Rev. 6:12--7:4",
+                "Matt. 13:24-30"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Ecclus. 35:1-17",
+                "Rev. 13:11-18",
+                "Luke 12:32-48"
+            ],
+            "year_1_readings": [
+                "Neh. 4:1-23",
+                "Rev. 7:(4-8)9-17",
+                "Matt. 13:31-55"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 26,
+        "collect": "Almighty and merciful God, it is only by your gift that your faithful people offer you true and laudable service: Grant that we may run without stumbling to obtain your heavenly promises; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Ecclus. 36:1-17",
+                "1 Cor. 12:27--13:13",
+                "Matt. 18:21-35"
+            ],
+            "year_1_readings": [
+                "Neh. 5:1-19",
+                "Acts 20:7-12",
+                "Luke 12:22-31"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Ecclus. 38:24-34",
+                "Rev. 14:1-13",
+                "Luke 12:49-59"
+            ],
+            "year_1_readings": [
+                "Neh. 6:1-19",
+                "Rev. 10:1-11",
+                "Matt. 13:36-43"
+            ],
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Ecclus. 43:1-22",
+                "Rev. 14:14--15:8",
+                "Luke 13:1-9"
+            ],
+            "year_1_readings": [
+                "Neh. 12:27-31a, 42b-47",
+                "Rev. 11:1-19",
+                "Matt. 13:44-52"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Ecclus. 43:23-33",
+                "Rev. 16:1-11",
+                "Luke 13:10-17"
+            ],
+            "year_1_readings": [
+                "Neh. 13:4-22",
+                "Rev. 12:1-12",
+                "Matt. 13:53-58"
+            ],
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Ecclus. 44:1-15",
+                "Rev. 16:12-21",
+                "Luke 13:18-30"
+            ],
+            "year_1_readings": [
+                "Ezra 7:(1-10)11-26",
+                "Rev. 14:1-13",
+                "Matt. 14:1-12"
+            ],
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Ecclus. 50:1, 11-24",
+                "Rev. 17:1-18",
+                "Luke 13:31-35"
+            ],
+            "year_1_readings": [
+                "Ezra 7:27-28; 8:21-36",
+                "Rev. 15:1-8",
+                "Matt. 14:13-21"
+            ],
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Ecclus. 51:1-12",
+                "Rev. 18:1-14",
+                "Luke 14:1-11"
+            ],
+            "year_1_readings": [
+                "Ezra 9:1-15",
+                "Rev. 17:1-14",
+                "Matt. 14:22-36"
+            ],
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 27,
+        "collect": "O God, whose blessed Son came into the world that he might destroy the works of the devil and make us children of God and heirs of eternal life: Grant that, having this hope, we may purify ourselves as he is pure; that, when he comes again with power and great glory, we may be made like him in his eternal and glorious kingdom; where he lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Ecclus. 51:13-22",
+                "1 Cor. 14:1-12",
+                "Matt. 20:1-16"
+            ],
+            "year_1_readings": [
+                "Ezra 10:1-17",
+                "Acts 24:10-21",
+                "Luke 14:12-24"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Joel 1:1-13",
+                "Rev. 18:15-24",
+                "Luke 14:12-24"
+            ],
+            "year_1_readings": [
+                "Neh. 9:1-15(16-25)",
+                "Rev. 18:1-8",
+                "Matt. 15:1-20"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Joel 1:15--2:2(3-11)",
+                "Rev. 19:1-10",
+                "Luke 14:25-35"
+            ],
+            "year_1_readings": [
+                "Neh. 9:26-38",
+                "Rev. 18:9-20",
+                "Matt. 15:21-28"
+            ],
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Joel 2:12-19",
+                "Rev. 19:11-21",
+                "Luke 15:1-10"
+            ],
+            "year_1_readings": [
+                "Neh. 7:73b--8:3, 5-18",
+                "Rev. 18:21-24",
+                "Matt. 15:29-39"
+            ],
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "psalter": "81, 82"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Joel 2:21-27",
+                "James 1:1-15",
+                "Luke 15:1-2, 11-32"
+            ],
+            "year_1_readings": [
+                "1 Macc. 1:1-28",
+                "Rev. 19:1-10",
+                "Matt. 16:1-12"
+            ],
+            "morning": {
+                "psalter": "[83] or 23, 27"
+            },
+            "evening": {
+                "psalter": "85, 86"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Joel 2:28--3:8",
+                "James 1:16-27",
+                "Luke 16:1-9"
+            ],
+            "year_1_readings": [
+                "1 Macc. 1:41-63",
+                "Rev. 19:11-16",
+                "Matt. 16:13-20"
+            ],
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Joel 3:9-17",
+                "James 2:1-13",
+                "Luke 16:10-17(18)"
+            ],
+            "year_1_readings": [
+                "1 Macc. 2:1-28",
+                "Rev. 20:1-6",
+                "Matt. 16:21-28"
+            ],
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 28,
+        "collect": "Blessed Lord, who caused all holy Scriptures to be written for our learning: Grant us so to hear them, read, mark, learn, and inwardly digest them, that we may embrace and ever hold fast the blessed hope of everlasting life, which you have given us in our Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Hab. 1:1-4(5-11)12--2:1",
+                "Phil. 3:13--4:1",
+                "Matt. 23:13-24"
+            ],
+            "year_1_readings": [
+                "1 Macc. 2:29-43, 49-50",
+                "Acts 28:14b-23",
+                "Luke 16:1-13"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19, 46"
+            },
+            "name": "The {{pentecost_ordinal}} Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Hab. 2:1-4, 9-20",
+                "James 2:14-26",
+                "Luke 16:19-31"
+            ],
+            "year_1_readings": [
+                "1 Macc. 3:1-24",
+                "Rev. 20:7-15",
+                "Matt. 17:1-13"
+            ],
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Hab. 3:1-10(11-15)16-18",
+                "James 3:1-12",
+                "Luke 17:1-10"
+            ],
+            "year_1_readings": [
+                "1 Macc. 3:25-41",
+                "Rev. 21:1-8",
+                "Matt. 17:14-21"
+            ],
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Mal. 1:1, 6-14",
+                "James 3:13--4:12",
+                "Luke 17:11-19"
+            ],
+            "year_1_readings": [
+                "1 Macc. 3:42-60",
+                "Rev. 21:9-21",
+                "Matt. 17:22-27"
+            ],
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Mal. 2:1-16",
+                "James 4:13--5:6",
+                "Luke 17:20-37"
+            ],
+            "year_1_readings": [
+                "1 Macc. 4:1-25",
+                "Rev. 21:22--22:5",
+                "Matt. 18:1-9"
+            ],
+            "morning": {
+                "psalter": "105:1-22"
+            },
+            "evening": {
+                "psalter": "105:23-45"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Mal. 3:1-12",
+                "James 5:7-12",
+                "Luke 18:1-8"
+            ],
+            "year_1_readings": [
+                "1 Macc. 4:36-59",
+                "Rev. 22:6-13",
+                "Matt. 18:10-20"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Mal. 3:13--4:6",
+                "James 5:13-20",
+                "Luke 18:9-14"
+            ],
+            "year_1_readings": [
+                "Isa. 65:17-25",
+                "Rev. 22:14-21",
+                "Matt. 18:21-35"
+            ],
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "psalter": "33"
+            }
+        },
+        "name": "{{day_of_week}} after the {{pentecost_ordinal}} Sunday after Pentecost"
+    },
+    {
+        "number": 29,
+        "collect": "Almighty and everlasting God, whose will it is to restore all things in your well-beloved Son, the King of kings and Lord of lords: Mercifully grant that the peoples of the earth, divided and enslaved by sin, may be freed and brought together under his most gracious rule; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "PENTECOST",
+        "SUNDAY": {
+            "year_2_readings": [
+                "Zech. 9:9-16",
+                "1 Pet. 3:13-22",
+                "Matt. 21:1-13"
+            ],
+            "year_1_readings": [
+                "Isa. 19:19-25",
+                "Rom. 15:5-13",
+                "Luke 19:11-27"
+            ],
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "name": "The Last Sunday after Pentecost"
+        },
+        "MONDAY": {
+            "year_2_readings": [
+                "Zech. 10:1-12",
+                "Gal. 6:1-10",
+                "Luke 18:15-30"
+            ],
+            "year_1_readings": [
+                "Joel 3:1-2, 9-17",
+                "1 Pet. 1:1-12",
+                "Matt. 19:1-12"
+            ],
+            "morning": {
+                "psalter": "106:1-18"
+            },
+            "evening": {
+                "psalter": "106:19-48"
+            }
+        },
+        "TUESDAY": {
+            "year_2_readings": [
+                "Zech. 11:4-17",
+                "1 Cor. 3:10-23",
+                "Luke 18:31-43"
+            ],
+            "year_1_readings": [
+                "Nahum 1:1-13",
+                "1 Pet. 1:13-25",
+                "Matt. 19:13-22"
+            ],
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_2_readings": [
+                "Zech. 12:1-10",
+                "Eph. 1:3-14",
+                "Luke 19:1-10"
+            ],
+            "year_1_readings": [
+                "Obadiah 15-21",
+                "1 Pet. 2:1-10",
+                "Matt. 19:23-30"
+            ],
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            }
+        },
+        "THURSDAY": {
+            "year_2_readings": [
+                "Zech. 13:1-9",
+                "Eph. 1:15-23",
+                "Luke 19:11-27"
+            ],
+            "year_1_readings": [
+                "Zeph. 3:1-13",
+                "1 Pet. 2:11-25",
+                "Matt. 20:1-16"
+            ],
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "134, 135"
+            }
+        },
+        "FRIDAY": {
+            "year_2_readings": [
+                "Zech. 14:1-11",
+                "Rom. 15:7-13",
+                "Luke 19:28-40"
+            ],
+            "year_1_readings": [
+                "Isa. 24:14-23",
+                "1 Pet. 3:13--4:6",
+                "Matt. 20:17-28"
+            ],
+            "morning": {
+                "psalter": "140, 142"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            }
+        },
+        "SATURDAY": {
+            "year_2_readings": [
+                "Zech. 14:12-21",
+                "Phil. 2:1-11",
+                "Luke 19:41-48"
+            ],
+            "year_1_readings": [
+                "Micah 7:11-20",
+                "1 Pet. 4:7-19",
+                "Matt. 20:29-34"
+            ],
+            "morning": {
+                "psalter": "137:1-6(7-9), 144"
+            },
+            "evening": {
+                "psalter": "104"
+            }
+        },
+        "name": "{{day_of_week}} after the Last Sunday after Pentecost"
+    }
+]

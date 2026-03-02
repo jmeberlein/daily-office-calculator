@@ -1,0 +1,246 @@
+[
+    {
+        "number": 0,
+        "collect": "Almighty God, you have given your only-begotten Son to take our nature upon him, and to be born of a pure virgin: Grant that we, who have been born again and made your children by adoption and grace, may daily be renewed by your Holy Spirit; through our Lord Jesus Christ, to whom with you and the same Spirit be honor and glory, now and for ever. Amen.",
+        "name": "The {{day_of_week}} after Christmas",
+        "season": "CHRISTMAS",
+        "SUNDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        }
+    },
+    {
+        "number": 1,
+        "collect": "Almighty God, you have poured upon us the new light of your incarnate Word: Grant that this light, enkindled in our hearts, may shine forth in our lives; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.",
+        "name": "The {{day_of_week}} after the First Sunday after Christmas",
+        "season": "CHRISTMAS",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Isa. 62:6-7, 10-12",
+                "Heb. 2:10-18",
+                "Matt. 1:18-25"
+            ],
+            "year_2_readings": [
+                "1 Samuel 1:1-2, 7b-28",
+                "Col. 1:9-20",
+                "Luke 2:22-40"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            }
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        }
+    },
+    {
+        "number": 2,
+        "collect": "O God, who wonderfully created, and yet more wonderfully restored, the dignity of human nature: Grant that we may share the divine life of him who humbled himself to share our humanity, your Son Jesus Christ; who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever. Amen.",
+        "name": "The {{day_of_week}} after the Second Sunday after Christmas",
+        "season": "CHRISTMAS",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Ecclus. 3:3-9, 14-17",
+                "1 John 2:12-17",
+                "John 6:41-47"
+            ],
+            "year_2_readings": [
+                "Wisdom 7:3-14",
+                "Col. 3:12-17",
+                "John 6:41-47"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "145"
+            }
+        },
+        "MONDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "TUESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "WEDNESDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "THURSDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "FRIDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        },
+        "SATURDAY": {
+            "morning": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            },
+            "evening": {
+                "psalter": "",
+                "readings": [ "", "" ]
+            }
+        }
+    }
+]

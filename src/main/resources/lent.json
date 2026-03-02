@@ -1,0 +1,970 @@
+[
+    {
+        "number": 0,
+        "collect": "Almighty and everlasting God, you hate nothing you have made and forgive the sins of all who are penitent: Create and make in us new and contrite hearts, that we, worthily lamenting our sins and acknowledging our wretchedness, may obtain of you, the God of all mercy, perfect remission and forgiveness; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "LENT",
+        "SUNDAY": {
+            "collect": "O God, who before the passion of your only-begotten Son revealed his glory upon the holy mountain: Grant to us that we, beholding by faith the light of his countenance, may be strengthened to bear our cross, and be changed into his likeness from glory to glory; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "season": "EPIPHANY",
+            "year_1_readings": [
+                "Deut. 6:1-9",
+                "Heb. 12:18-29",
+                "John 12:24-32"
+            ],
+            "year_2_readings": [
+                "Ecclus. 48:1-11",
+                "2 Cor. 3:7-18",
+                "Luke 9:18-27"
+            ],
+            "morning": {
+                "psalter": "148, 149, 150"
+            },
+            "evening": {
+                "psalter": "114, 115"
+            },
+            "name": "Quinquagesima"
+        },
+        "MONDAY": {
+            "collect": "O God, who before the passion of your only-begotten Son revealed his glory upon the holy mountain: Grant to us that we, beholding by faith the light of his countenance, may be strengthened to bear our cross, and be changed into his likeness from glory to glory; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "season": "EPIPHANY",
+            "year_1_readings": [
+                "Deut. 6:10-15",
+                "Heb. 1:1-14",
+                "John 1:1-18"
+            ],
+            "year_2_readings": [
+                "Prov. 27:1-6, 10-12",
+                "Phil. 2:1-13",
+                "John 18:15-18, 25-27"
+            ],
+            "morning": {
+                "psalter": "25"
+            },
+            "evening": {
+                "psalter": "9, 15"
+            },
+            "name": "The Monday after Quinquagesima"
+        },
+        "TUESDAY": {
+            "collect": "O God, who before the passion of your only-begotten Son revealed his glory upon the holy mountain: Grant to us that we, beholding by faith the light of his countenance, may be strengthened to bear our cross, and be changed into his likeness from glory to glory; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "season": "EPIPHANY",
+            "year_1_readings": [
+                "Deut. 6:16-25",
+                "Heb. 2:1-10",
+                "John 1:19-28"
+            ],
+            "year_2_readings": [
+                "Prov. 30:1-4, 24-33",
+                "Phil. 3:1-11",
+                "John 18:28-38"
+            ],
+            "morning": {
+                "psalter": "26, 28"
+            },
+            "evening": {
+                "psalter": "36, 39"
+            },
+            "name": "The Tuesday after Quinquagesima"
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Jonah 3:1--4:11",
+                "Heb. 12:1-14",
+                "Luke 18:9-14"
+            ],
+            "year_2_readings": [
+                "Amos 5:6-15",
+                "Heb. 12:1-14",
+                "Luke 18:9-14"
+            ],
+            "morning": {
+                "psalter": "32, 143"
+            },
+            "evening": {
+                "psalter": "102, 130"
+            },
+            "rank": "PRINCIPAL",
+            "name": "Ash Wednesday"
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Deut. 7:6-11",
+                "Titus 1:1-16",
+                "John 1:29-34"
+            ],
+            "year_2_readings": [
+                "Hab. 3:1-10(11-15)16-18",
+                "Phil. 3:12-21",
+                "John 17:1-8"
+            ],
+            "morning": {
+                "psalter": "37:1-18"
+            },
+            "evening": {
+                "psalter": "37:19-42"
+            },
+            "name": "The Thursday after Ash Wednesday"
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Deut. 7:12-16",
+                "Titus 2:1-15",
+                "John 1:35-42"
+            ],
+            "year_2_readings": [
+                "Ezek. 18:1-4, 25-32",
+                "Phil. 4:1-9",
+                "John 17:9-19"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            },
+            "name": "The Friday after Ash Wednesday"
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Deut. 7:17-26",
+                "Titus 3:1-15",
+                "John 1:43-51"
+            ],
+            "year_2_readings": [
+                "Ezek. 39:21-29",
+                "Phil. 4:10-20",
+                "John 17:20-26"
+            ],
+            "morning": {
+                "psalter": "30, 32"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            },
+            "name": "The Saturday after Ash Wednesday"
+        }
+    },
+    {
+        "number": 1,
+        "collect": "Almighty God, whose blessed Son was led by the Spirit to be tempted by Satan: Come quickly to help us who are assaulted by many temptations; and, as you know the weaknesses of each of us, let each one find you mighty to save; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "LENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Deut. 8:1-10",
+                "1 Cor. 1:17-31",
+                "Mark 2:18-22"
+            ],
+            "year_2_readings": [
+                "Dan. 9:3-10",
+                "Heb. 2:10-18",
+                "John 12:44-50"
+            ],
+            "morning": {
+                "psalter": "63:1-8(9-11), 98"
+            },
+            "evening": {
+                "psalter": "103"
+            },
+            "name": "The First Sunday in Lent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Deut. 8:11-20",
+                "Heb. 2:11-18",
+                "John 2:1-12"
+            ],
+            "year_2_readings": [
+                "Gen. 37:1-11",
+                "1 Cor. 1:1-19",
+                "Mark 1:1-13"
+            ],
+            "morning": {
+                "psalter": "41, 52"
+            },
+            "evening": {
+                "psalter": "44"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Deut. 9:4-12",
+                "Heb. 3:1-11",
+                "John 2:13-22"
+            ],
+            "year_2_readings": [
+                "Gen. 37:12-24",
+                "1 Cor. 1:20-31",
+                "Mark 1:14-28"
+            ],
+            "morning": {
+                "psalter": "45"
+            },
+            "evening": {
+                "psalter": "47, 48"
+            }
+        },
+        "WEDNESDAY": {
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "year_1_readings": [
+                "Deut. 9:13-21",
+                "Heb. 3:12-19",
+                "John 2:23--3:15"
+            ],
+            "year_2_readings": [
+                "Gen. 37:25-36",
+                "1 Cor. 2:1-13",
+                "Mark 1:29-45"
+            ],
+            "morning": {
+                "psalter": "119:49-72"
+            },
+            "evening": {
+                "psalter": "49, [53]"
+            },
+            "name": "Spring Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Deut. 9:23--10:5",
+                "Heb. 4:1-10",
+                "John 3:16-21"
+            ],
+            "year_2_readings": [
+                "Gen. 39:1-23",
+                "1 Cor. 2:14--3:15",
+                "Mark 2:1-12"
+            ],
+            "morning": {
+                "psalter": "50"
+            },
+            "evening": {
+                "psalter": "[59, 60] or 19, 46"
+            }
+        },
+        "FRIDAY": {
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "year_1_readings": [
+                "Deut. 10:12-22",
+                "Heb. 4:11-16",
+                "John 3:22-36"
+            ],
+            "year_2_readings": [
+                "Gen. 40:1-23",
+                "1 Cor. 3:16-23",
+                "Mark 2:13-22"
+            ],
+            "morning": {
+                "psalter": "40, 54"
+            },
+            "evening": {
+                "psalter": "51"
+            },
+            "name": "Spring Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "SATURDAY": {
+            "collect": "Almighty and everlasting God, by whose Spirit the whole body of your faithful people is governed and sanctified: Receive our supplications and prayers, which we offer before you for all members of your holy Church, that in their vocation and ministry they may truly and devoutly serve you; through our Lord and Savior Jesus Christ, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and forever. Amen.",
+            "year_1_readings": [
+                "Deut. 11:18-28",
+                "Heb. 5:1-10",
+                "John 4:1-26"
+            ],
+            "year_2_readings": [
+                "Gen. 41:1-13",
+                "1 Cor. 4:1-7",
+                "Mark 2:23--3:6"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "138, 139:1-17(18-23)"
+            },
+            "name": "Spring Ember Day",
+            "rank": "OPTIONAL"
+        },
+        "name": "{{day_of_week}} after the First Sunday in Lent"
+    },
+    {
+        "number": 2,
+        "collect": "O God, whose glory it is always to have mercy: Be gracious to all who have gone astray from your ways, and bring them again with penitent hearts and steadfast faith to embrace and hold fast the unchangeable truth of your Word, Jesus Christ your Son; who with you and the Holy Spirit lives and reigns, one God, for ever and ever. Amen.",
+        "season": "LENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Jer. 1:1-10",
+                "1 Cor. 3:11-23",
+                "Mark 3:31--4:9"
+            ],
+            "year_2_readings": [
+                "Gen. 41:14-45",
+                "Rom. 6:3-14",
+                "John 5:19-24"
+            ],
+            "morning": {
+                "psalter": "24, 29"
+            },
+            "evening": {
+                "psalter": "8, 84"
+            },
+            "name": "The Second Sunday in Lent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Jer. 1:11-19",
+                "Rom. 1:1-15",
+                "John 4:27-42"
+            ],
+            "year_2_readings": [
+                "Gen. 41:46-57",
+                "1 Cor. 4:8-20(21)",
+                "Mark 3:7-19a"
+            ],
+            "morning": {
+                "psalter": "56, 57, [58]"
+            },
+            "evening": {
+                "psalter": "64, 65"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Jer. 2:1-13",
+                "Rom. 1:16-25",
+                "John 4:43-54"
+            ],
+            "year_2_readings": [
+                "Gen. 42:1-17",
+                "1 Cor. 5:1-8",
+                "Mark 3:19b-35"
+            ],
+            "morning": {
+                "psalter": "61, 62"
+            },
+            "evening": {
+                "psalter": "68:1-20(21-23)24-36"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Jer. 3:6-18",
+                "Rom. 1:28--2:11",
+                "John 5:1-18"
+            ],
+            "year_2_readings": [
+                "Gen. 42:18-28",
+                "1 Cor. 5:9--6:8",
+                "Mark 4:1-20"
+            ],
+            "morning": {
+                "psalter": "72"
+            },
+            "evening": {
+                "psalter": "119:73-96"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Jer. 4:9-10, 19-28",
+                "Rom. 2:12-24",
+                "John 5:19-29"
+            ],
+            "year_2_readings": [
+                "Gen. 42:29-38",
+                "1 Cor. 6:12-20",
+                "Mark 4:21-34"
+            ],
+            "morning": {
+                "psalter": "[70], 71"
+            },
+            "evening": {
+                "psalter": "74"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Jer. 5:1-9",
+                "Rom. 2:25--3:18",
+                "John 5:30-47"
+            ],
+            "year_2_readings": [
+                "Gen. 43:1-15",
+                "1 Cor. 7:1-9",
+                "Mark 4:35-41"
+            ],
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Jer. 5:20-31",
+                "Rom. 3:19-31",
+                "John 7:1-13"
+            ],
+            "year_2_readings": [
+                "Gen. 43:16-34",
+                "1 Cor. 7:10-24",
+                "Mark 5:1-20"
+            ],
+            "morning": {
+                "psalter": "75, 76"
+            },
+            "evening": {
+                "psalter": "23, 27"
+            }
+        },
+        "name": "{{day_of_week}} after the Second Sunday in Lent"
+    },
+    {
+        "number": 3,
+        "collect": "Almighty God, you know that we have no power in ourselves to help ourselves: Keep us both outwardly in our bodies and inwardly in our souls, that we may be defended from all adversities which may happen to the body, and from all evil thoughts which may assault and hurt the soul; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+        "season": "LENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Jer. 6:9-15",
+                "1 Cor. 6:12-20",
+                "Mark 5:1-20"
+            ],
+            "year_2_readings": [
+                "Gen. 44:1-17",
+                "Rom. 8:1-10",
+                "John 5:25-29"
+            ],
+            "morning": {
+                "psalter": "93, 96"
+            },
+            "evening": {
+                "psalter": "34"
+            },
+            "name": "The Third Sunday in Lent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Jer. 7:1-15",
+                "Rom. 4:1-12",
+                "John 7:14-36"
+            ],
+            "year_2_readings": [
+                "Gen. 44:18-34",
+                "1 Cor. 7:25-31",
+                "Mark 5:21-43"
+            ],
+            "morning": {
+                "psalter": "80"
+            },
+            "evening": {
+                "psalter": "77, [79]"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Jer. 7:21-34",
+                "Rom. 4:13-25",
+                "John 7:37-52"
+            ],
+            "year_2_readings": [
+                "Gen. 45:1-15",
+                "1 Cor. 7:32-40",
+                "Mark 6:1-13"
+            ],
+            "morning": {
+                "psalter": "78:1-39"
+            },
+            "evening": {
+                "psalter": "78:40-72"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Jer. 8:18--9:6",
+                "Rom. 5:1-11",
+                "John 8:12-20"
+            ],
+            "year_2_readings": [
+                "Gen. 45:16-28",
+                "1 Cor. 8:1-13",
+                "Mark 6:13-29"
+            ],
+            "morning": {
+                "psalter": "119:97-120"
+            },
+            "evening": {
+                "psalter": "81, 82"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Jer. 10:11-24",
+                "Rom. 5:12-21",
+                "John 8:21-32"
+            ],
+            "year_2_readings": [
+                "Gen. 46:1-7, 28-34",
+                "1 Cor. 9:1-15",
+                "Mark 6:30-46"
+            ],
+            "morning": {
+                "psalter": "[83] or 42, 43"
+            },
+            "evening": {
+                "psalter": "85, 86"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Jer. 11:1-8, 14-20",
+                "Rom. 6:1-11",
+                "John 8:33-47"
+            ],
+            "year_2_readings": [
+                "Gen. 47:1-26",
+                "1 Cor. 9:16-27",
+                "Mark 6:47-56"
+            ],
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "91, 92"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Jer. 13:1-11",
+                "Rom. 6:12-23",
+                "John 8:47-59"
+            ],
+            "year_2_readings": [
+                "Gen. 47:27--48:7",
+                "1 Cor. 10:1-13",
+                "Mark 7:1-23"
+            ],
+            "morning": {
+                "psalter": "87, 90"
+            },
+            "evening": {
+                "psalter": "136"
+            }
+        },
+        "name": "{{day_of_week}} after the Third Sunday in Lent"
+    },
+    {
+        "number": 4,
+        "collect": "Gracious Father, whose blessed Son Jesus Christ came down from heaven to be the true bread which gives life to the world: Evermore give us this bread, that he may live in us, and we in him; who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "LENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Jer. 14:1-9, 17-22",
+                "Gal. 4:21--5:1",
+                "Mark 8:11-21"
+            ],
+            "year_2_readings": [
+                "Gen. 48:8-22",
+                "Rom. 8:11-25",
+                "John 6:27-40"
+            ],
+            "morning": {
+                "psalter": "66, 67"
+            },
+            "evening": {
+                "psalter": "19, 46"
+            },
+            "name": "The Fourth Sunday in Lent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Jer. 16:10-21",
+                "Rom. 7:1-12",
+                "John 6:1-15"
+            ],
+            "year_2_readings": [
+                "Gen. 49:1-28",
+                "1 Cor. 10:14--11:1",
+                "Mark 7:24-37"
+            ],
+            "morning": {
+                "psalter": "89:1-18"
+            },
+            "evening": {
+                "psalter": "89:19-52"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Jer. 17:19-27",
+                "Rom. 7:13-25",
+                "John 6:16-27"
+            ],
+            "year_2_readings": [
+                "Gen. 49:29--50:14",
+                "1 Cor. 11:17-34",
+                "Mark 8:1-10"
+            ],
+            "morning": {
+                "psalter": "97, 99, [100]"
+            },
+            "evening": {
+                "psalter": "94, [95]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Jer. 18:1-11",
+                "Rom. 8:1-11",
+                "John 6:27-40"
+            ],
+            "year_2_readings": [
+                "Gen. 50:15-26",
+                "1 Cor. 12:1-11",
+                "Mark 8:11-26"
+            ],
+            "morning": {
+                "psalter": "101, 109:1-4(5-19)20-30"
+            },
+            "evening": {
+                "psalter": "119:121-144"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Jer. 22:13-23",
+                "Rom. 8:12-27",
+                "John 6:41-51"
+            ],
+            "year_2_readings": [
+                "Exod. 1:6-22",
+                "1 Cor. 12:12-26",
+                "Mark 8:27--9:1"
+            ],
+            "morning": {
+                "psalter": "69:1-23(24-30)31-38"
+            },
+            "evening": {
+                "psalter": "73"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Jer. 23:1-8",
+                "Rom. 8:28-39",
+                "John 6:52-59"
+            ],
+            "year_2_readings": [
+                "Exod. 2:1-22",
+                "1 Cor. 12:27--13:3",
+                "Mark 9:2-13"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "107:1-32"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Jer. 23:9-15",
+                "Rom. 9:1-18",
+                "John 6:60-71"
+            ],
+            "year_2_readings": [
+                "Exod. 2:23--3:15",
+                "1 Cor. 13:1-13",
+                "Mark 9:14-29"
+            ],
+            "morning": {
+                "psalter": "107:33-43, 108:1-6(7-13)"
+            },
+            "evening": {
+                "psalter": "33"
+            }
+        },
+        "name": "{{day_of_week}} after the Fourth Sunday in Lent"
+    },
+    {
+        "number": 5,
+        "collect": "Almighty God, you alone can bring into order the unruly wills and affections of sinners: Grant your people grace to love what you command and desire what you promise; that, among the swift and varied changes of the world, our hearts may surely there be fixed where true joys are to be found; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen.",
+        "season": "LENT",
+        "SUNDAY": {
+            "year_1_readings": [
+                "Jer. 23:16-32",
+                "1 Cor. 9:19-27",
+                "Mark 8:31--9:1"
+            ],
+            "year_2_readings": [
+                "Exod. 3:16--4:12",
+                "Rom. 12:1-21",
+                "John 8:46-59"
+            ],
+            "morning": {
+                "psalter": "118"
+            },
+            "evening": {
+                "psalter": "145"
+            },
+            "name": "The Fifth Sunday in Lent"
+        },
+        "MONDAY": {
+            "year_1_readings": [
+                "Jer. 24:1-10",
+                "Rom. 9:19-33",
+                "John 9:1-17"
+            ],
+            "year_2_readings": [
+                "Exod. 4:10-20(21-26)27-31",
+                "1 Cor. 14:1-19",
+                "Mark 9:30-41"
+            ],
+            "morning": {
+                "psalter": "31"
+            },
+            "evening": {
+                "psalter": "35"
+            }
+        },
+        "TUESDAY": {
+            "year_1_readings": [
+                "Jer. 25:8-17",
+                "Rom. 10:1-13",
+                "John 9:18-41"
+            ],
+            "year_2_readings": [
+                "Exod. 5:1--6:1",
+                "1 Cor. 14:20-33a, 39-40",
+                "Mark 9:42-50"
+            ],
+            "morning": {
+                "psalter": "[120], 121, 122, 123"
+            },
+            "evening": {
+                "psalter": "124, 125, 126, [127]"
+            }
+        },
+        "WEDNESDAY": {
+            "year_1_readings": [
+                "Jer. 25:30-38",
+                "Rom. 10:14-21",
+                "John 10:1-18"
+            ],
+            "year_2_readings": [
+                "Exod. 7:8-24",
+                "2 Cor. 2:14--3:6",
+                "Mark 10:1-16"
+            ],
+            "morning": {
+                "psalter": "119:145-176"
+            },
+            "evening": {
+                "psalter": "128, 129, 130"
+            }
+        },
+        "THURSDAY": {
+            "year_1_readings": [
+                "Jer. 26:1-16",
+                "Rom. 11:1-12",
+                "John 10:19-42"
+            ],
+            "year_2_readings": [
+                "Exod. 7:25--8:19",
+                "2 Cor. 3:7-18",
+                "Mark 10:17-31"
+            ],
+            "morning": {
+                "psalter": "131, 132, [133]"
+            },
+            "evening": {
+                "psalter": "140, 142"
+            }
+        },
+        "FRIDAY": {
+            "year_1_readings": [
+                "Jer. 29:1, 4-13",
+                "Rom. 11:13-24",
+                "John 11:1-27, or 12:1-10"
+            ],
+            "year_2_readings": [
+                "Exod. 9:13-35",
+                "2 Cor. 4:1-12",
+                "Mark 10:32-45"
+            ],
+            "morning": {
+                "psalter": "22"
+            },
+            "evening": {
+                "psalter": "141, 143:1-11(12)"
+            }
+        },
+        "SATURDAY": {
+            "year_1_readings": [
+                "Jer. 31:27-34",
+                "Rom. 11:25-36",
+                "John 11:28-44, or 12:37-50"
+            ],
+            "year_2_readings": [
+                "Exod. 10:21--11:8",
+                "2 Cor. 4:13-18",
+                "Mark 10:46-52"
+            ],
+            "morning": {
+                "psalter": "137:1-6(7-9), 144"
+            },
+            "evening": {
+                "psalter": "42, 43"
+            }
+        },
+        "name": "{{day_of_week}} after the Fifth Sunday in Lent"
+    },
+    {
+        "number": 6,
+        "season": "LENT",
+        "SUNDAY": {
+            "collect": "Almighty and everliving God, in your tender love for the human race you sent your Son our Savior Jesus Christ to take upon him our nature, and to suffer death upon the cross, giving us the example of his great humility: Mercifully grant that we may walk in the way of his suffering, and also share in his resurrection; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "morning": {
+                "psalter": "24, 29",
+                "readings": [
+                    "Zech. 9:9-12",
+                    "1 Tim. 6:12-16"
+                ]
+            },
+            "evening": {
+                "psalter": "103",
+                "readings": [
+                    "Zech. 12:9-11, 13:1, 7-9",
+                    "Matt. 21:12-17"
+                ]
+            },
+            "rank": "PRINCIPAL",
+            "name": "Palm Sunday"
+        },
+        "MONDAY": {
+            "collect": "Almighty God, whose dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other that the way of life and peace; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Jer. 12:1-16",
+                "Phil. 3:1-14",
+                "John 12:9-19"
+            ],
+            "year_2_readings": [
+                "Lam. 1:1-2, 6-12",
+                "2 Cor. 1:1-7",
+                "Mark 11:12-25"
+            ],
+            "morning": {
+                "psalter": "51:1-18(19-20)"
+            },
+            "evening": {
+                "psalter": "69:1-23"
+            },
+            "name": "The Monday of Holy Week",
+            "rank": "PRINCIPAL"
+        },
+        "TUESDAY": {
+            "collect": "O God, by the passion of your blessed Son you made an instrument of shameful death to be for us the means of life: Grant us so to glory in the cross of Christ, that we may gladly suffer shame and loss for the sake of your Son our Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Jer. 15:10-21",
+                "Phil. 3:15-21",
+                "John 12:20-26"
+            ],
+            "year_2_readings": [
+                "Lam. 1:17-22",
+                "2 Cor. 1:8-22",
+                "Mark 11:27-33"
+            ],
+            "morning": {
+                "psalter": "6, 12"
+            },
+            "evening": {
+                "psalter": "94"
+            },
+            "name": "The Tuesday of Holy Week",
+            "rank": "PRINCIPAL"
+        },
+        "WEDNESDAY": {
+            "collect": "Lord God, whose blessed Son our Savior gave his body to be whipped and his face to be spit upon: Give us grace to accept joyfully the sufferings of the present time, confident of the glory that shall be revealed; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Jer. 17:5-10, 14-17",
+                "Phil. 4:1-13",
+                "John 12:27-36"
+            ],
+            "year_2_readings": [
+                "Lam. 2:1-9",
+                "2 Cor. 1:23--2:11",
+                "Mark 12:1-11"
+            ],
+            "morning": {
+                "psalter": "55"
+            },
+            "evening": {
+                "psalter": "74"
+            },
+            "name": "The Wednesday of Holy Week",
+            "rank": "PRINCIPAL"
+        },
+        "THURSDAY": {
+            "collect": "Almighty Father, whose dear Son, on the night before he suffered, instituted the Sacrament of his Body and Blood: Mercifully grant that we may receive it thankfully in remembrance of Jesus Christ our Lord, who in these holy mysteries gives us a pledge of eternal life; and who now lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Jer. 20:7-11",
+                "1 Cor. 10:14-17; 11:27-32",
+                "John 17:1-11(12-26)"
+            ],
+            "year_2_readings": [
+                "Lam. 2:10-18",
+                "1 Cor. 10:14-17; 11:27-32",
+                "Mark 14:12-25"
+            ],
+            "morning": {
+                "psalter": "102"
+            },
+            "evening": {
+                "psalter": "142, 143"
+            },
+            "name": "Maundy Thursday",
+            "rank": "PRINCIPAL"
+        },
+        "FRIDAY": {
+            "collect": "Almighty God, we pray you graciously to behold this your family, for whom our Lord Jesus Christ was willing to be betrayed, and given into the hands of sinners, and to suffer death upon the cross; who now lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Wisdom 1:16--2:1, 12-22",
+                "John 13:36-38",
+                "John 19:38-42"
+            ],
+            "year_2_readings": [
+                "Lam. 3:1-9, 19-33",
+                "John 19:38-42",
+                "John 13:36-38"
+            ],
+            "morning": {
+                "psalter": "22"
+            },
+            "evening": {
+                "psalter": "40:1:1-14(15-19), 54"
+            },
+            "name": "Good Friday",
+            "rank": "PRINCIPAL"
+        },
+        "SATURDAY": {
+            "collect": "O God, Creator of heaven and earth: Grant that, as the crucified body of your dear Son was laid in the tomb and rested on this holy Sabbath, so we may await with him the coming of the third day, and rise with him to newness of life; who now lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.",
+            "year_1_readings": [
+                "Job 19:21-27a",
+                "Heb. 4:1-16",
+                "Rom. 8:1-11"
+            ],
+            "year_2_readings": [
+                "Lam. 3:37-58",
+                "Rom. 8:1-11",
+                "Heb. 4:1-16"
+            ],
+            "morning": {
+                "psalter": "88"
+            },
+            "evening": {
+                "psalter": "27"
+            },
+            "name": "Holy Saturday",
+            "rank": "PRINCIPAL"
+        }
+    }
+]
