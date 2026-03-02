@@ -96,6 +96,17 @@ fun main(args: Array<String>) {
         }
     }
 
+    // Civil holidays
+    if (date.month == Month.SEPTEMBER && date.day <= 7 && date.dayOfWeek == DayOfWeek.MONDAY) {
+        dailyOffice.morning.merge(Office.LABOR_DAY)
+        dailyOffice.evening.merge(Office.LABOR_DAY)
+    }
+
+    if (date.month == Month.NOVEMBER && date.day > 21 && date.day <= 28 && date.dayOfWeek == DayOfWeek.THURSDAY) {
+        dailyOffice.morning.merge(Office.THANKSGIVING_MORNING)
+        dailyOffice.evening.merge(Office.THANKSGIVING_EVENING)
+    }
+
     // Format name
     val sunday = date.minus(date.dayOfWeek.isoDayNumber % 7, DateTimeUnit.DAY)
     val ordinal = toOrdinal(1 + (sunday.dayOfYear - pentecost.dayOfYear) / 7)

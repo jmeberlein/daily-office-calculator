@@ -19,7 +19,6 @@ class LiturgicalDay(var morning: Office, var evening: Office, var vigil: Office?
                     day.get("morning")!!.jsonObject.get("psalter")!!.jsonPrimitive.content
             val eveningPsalter =
                     day.get("evening")!!.jsonObject.get("psalter")!!.jsonPrimitive.content
-            val test = day.get("morning")!!.jsonObject.containsKey("readings")
             val morningReadings =
                     if (day.get("morning")!!.jsonObject.containsKey("readings"))
                             listOf(
@@ -164,7 +163,6 @@ class LiturgicalDay(var morning: Office, var evening: Office, var vigil: Office?
                     day.get("morning")!!.jsonObject.get("psalter")!!.jsonPrimitive.content
             val eveningPsalter =
                     day.get("evening")!!.jsonObject.get("psalter")!!.jsonPrimitive.content
-            val test = day.get("morning")!!.jsonObject.containsKey("readings")
             val morningReadings =
                     if (day.get("morning")!!.jsonObject.containsKey("readings"))
                             listOf(
@@ -323,6 +321,36 @@ class Office(
                         "",
                         ""
                 )
+
+        val THANKSGIVING_MORNING = Office(
+            "Thanksgiving",
+            Rank.OPTIONAL,
+            Season.PENTECOST,
+            "147",
+            "Deut. 26:1-11",
+            "John 6:26-35",
+            "Almighty and gracious Father, we give you thanks for the fruits of the earth in their season and for the labors of those who harvest them. Make us, we pray, faithful stewards of your great bounty, for the provision of our necessities and the relief of all who are in need, to the glory of your Name; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen."
+        )
+
+        val THANKSGIVING_EVENING = Office(
+            "Thanksgiving",
+            Rank.OPTIONAL,
+            Season.PENTECOST,
+            "145",
+            "Joel 2:21-27",
+            "1 Thess. 5:12-24",
+            "Almighty and gracious Father, we give you thanks for the fruits of the earth in their season and for the labors of those who harvest them. Make us, we pray, faithful stewards of your great bounty, for the provision of our necessities and the relief of all who are in need, to the glory of your Name; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever. Amen."
+        )
+
+        val LABOR_DAY = Office(
+            "Labor Day",
+            Rank.OPTIONAL,
+            Season.PENTECOST,
+            "",
+            "",
+            "",
+            "Almighty God, you have so linked our lives one with another that all we do affects, for good or ill, all other lives: So guide us in the work we do, that we may do it not for self alone, but for the common good; and, as we seek a proper return for our own labor, make us mindful of the rightful aspirations of other workers, and arouse our concern for those who are out of work; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen."
+        )
     }
 
     fun merge(other: Office) {
