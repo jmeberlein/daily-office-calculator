@@ -99,13 +99,12 @@ fun main(args: Array<String>) {
     // Format name
     val sunday = date.minus(date.dayOfWeek.isoDayNumber % 7, DateTimeUnit.DAY)
     val ordinal = toOrdinal(1 + (sunday.dayOfYear - pentecost.dayOfYear) / 7)
-    dailyOffice.morning.name = dailyOffice.morning.name.replace("\\{\\{pentecost_ordinal\\}\\}", ordinal)
-    dailyOffice.evening.name = dailyOffice.evening.name.replace("\\{\\{pentecost_ordinal\\}\\}", ordinal)
+    dailyOffice.morning.name = dailyOffice.morning.name.replace("{{pentecost_ordinal}}", ordinal)
+    dailyOffice.evening.name = dailyOffice.evening.name.replace("{{pentecost_ordinal}}", ordinal)
     var dayOfWeek = date.dayOfWeek.toString()
     dayOfWeek = dayOfWeek[0] + dayOfWeek.substring(1).lowercase()
-    dailyOffice.morning.name = dailyOffice.morning.name.replace("\\{\\{day_of_week\\}\\}", dayOfWeek)
-    dailyOffice.evening.name = dailyOffice.evening.name.replace("\\{\\{day_of_week\\}\\}", dayOfWeek)
-
+    dailyOffice.morning.name = dailyOffice.morning.name.replace("{{day_of_week}}", dayOfWeek)
+    dailyOffice.evening.name = dailyOffice.evening.name.replace("{{day_of_week}}", dayOfWeek)
 
     println("Name: ${dailyOffice.morning.name}")
     println("Morning:")
