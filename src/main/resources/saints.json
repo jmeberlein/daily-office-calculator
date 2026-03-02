@@ -211,6 +211,9 @@
         "morning": {
             "psalter": "98, 99, [100]"
         },
+        "evening": {
+            "psalter": ""
+        },
         "year_1_readings": [
             "Isa. 66:1-2, 22-23",
             "Rev. 3:14-22",
